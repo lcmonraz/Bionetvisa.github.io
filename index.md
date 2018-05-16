@@ -3,6 +3,8 @@ title: BioNetVisA workshop 2018
 layout: default
 ---
 
+<img src="/thumbnail_Logo_BioNetVisA.jpg" alt="Logo_BioNetVisA"/>
+<p> </p>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
