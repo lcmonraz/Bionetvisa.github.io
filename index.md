@@ -1,4 +1,5 @@
 ---
+title: BioNetVisA workshop 2018
 layout: default
 ---
 
