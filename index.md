@@ -62,39 +62,6 @@ Studies on single-cell data, microbiome, metabolomics and other omics data analy
 comorbidity, drug response prediction using network-based approaches.
 </p>
 
-### BioNetVisA programme
-
-<table>
-<tr><td><strong>09:00 - 10:30 Session 1<br />Signalling and metabolic network resources</strong></td></tr>
-<tr><td><i>10:30 - 11:00 Coffee break</i></td></tr> 
-<tr><td><strong>11:00 - 12:30 Session 2<br />Platforms and methods for analysis of complex networks</strong></td></tr>
-<tr><td><i>12:30 - 13:30 Lunch</i></td></tr>
-<tr><td><strong>13:30 - 15:00 Session 3<br />Biological networks in single-cell data analysis</strong></td></tr>
-<tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
-<tr><td><strong>15:30 - 17:00 Session 4<br />Biological network in drug repositioning and disease comorbidity</strong></td></tr>
-</table>
-
-### Important dates
-
-<table style="width 100%">
-<tr><td><b>May 15</b></td>
-  <td>Call for abstract submission <b><i><font color="#e60000">Submit now!</font></i></b></td></tr>
-<tr><td><b>July 6</b></td>
-  <td>Abstract submission deadline</td></tr>
-<tr><td><b>July 10</b></td>
-  <td>Abstract acceptance notification</td></tr>
-<tr><td><b>July 15</b></td>
-  <td>Workshop’s final program announcement</td></tr>
-<tr><td><b>July 29</b></td>
-  <td>Early bird registration deadline <a href="http://eccb18.org/registration/">Register here</a></td></tr>
-<tr><td><b>August 9</b></td>
-  <td>Late abstract submission deadline (for posters only)</td></tr>
-<tr><td><b>September 9</b></td>
-  <td>BioNetVisA workshop</td></tr>
-<tr><td><b>September 10-12</b></td>
-  <td><a href= "http://eccb18.org/">ECCB 2018 main conference</a></td></tr>
-</table>
-
 ### Abstract submission instructions
 
 We invite to submit your abstract for <b>Talk and/or poster</b> in the topics described above.
@@ -145,27 +112,8 @@ for Integrative Medical Sciences, Japan)<br />
 <a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Spanish National Bioinformatics Institute, Madrid, Spain)<br/>
 <a href="https://www.nki.nl/divisions/molecular-carcinogenesis/wessels-l-group/">Lodewyk Wessels</a> (Netherlands Cancer Institute, Amsterdam, Netherlands)<br />
-  <a href="https://www.prinsesmaximacentrum.com/">Patrick Kemmeren</a> (Princess Maxima Center for Pediatric Oncology, Utrecht, Netherands)
+  <a href="https://www.prinsesmaximacentrum.com/">Patrick Kemmeren</a> (Princess Maxima Center for Pediatric Oncology, Utrecht, Netherlands)
 </p>
-
-### Venue
-
-<a href="https://www.snfcc.org/default.aspx">Stavros Niarchos Foundation Cultural Center (SNFCC)</a>
-
-### Previous Editions
-
-<p><a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2014.html">BioNetVisA 2014</a><br />
-<a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2015.html">BioNetVisA 2015</a><br />
-<a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2016.html">BioNetVisA 2016</a><br />
-<a href="http://sysbio.curie.fr/bionetvisa/">BioNetVisA 2017</a><br />
-</p>
-
-### Downloads
-
-Coming soon
-
-### Contact us
-<a href="mailto:bionetvisa@curie.fr">bionetvisa@curie.fr</a>
 
 ### Sponsors
 TBA
