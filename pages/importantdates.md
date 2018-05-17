@@ -18,11 +18,11 @@ permalink: /importantdates
 <tr><td><b>July 15</b></td>
   <td>Workshop’s final program announcement</td></tr>
 <tr><td><b>July 29</b></td>
-  <td>Early bird registration deadline <b><font color="#e60000"><a href="http://eccb18.org/registration/">Register here</a></font></b></td></tr>
+  <td>Early bird registration deadline <b><a href="http://eccb18.org/registration/"><font color="#e60000">Register here</font></a></b></td></tr>
 <tr><td><b>August 9</b></td>
   <td>Late abstract submission deadline (for posters only)</td></tr>
 <tr><td><b>September 9</b></td>
   <td>BioNetVisA workshop</td></tr>
 <tr><td><b>September 10-12</b></td>
-  <td><b><font color="#e60000"><a href= "http://eccb18.org/">ECCB 2018 main conference</a></font></b></td></tr>
+  <td><b><a href= "http://eccb18.org/"><font color="#e60000">ECCB 2018 main conference</font></a></b></td></tr>
 </table>
