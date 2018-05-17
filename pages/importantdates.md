@@ -24,5 +24,5 @@ permalink: /importantdates
 <tr><td><b>September 9</b></td>
   <td>BioNetVisA workshop</td></tr>
 <tr><td><b>September 10-12</b></td>
-  <td><a href= "http://eccb18.org/">ECCB 2018 main conference</a></td></tr>
+  <td><b><font color="#e60000"><a href= "http://eccb18.org/">ECCB 2018 main conference</a></font></b></td></tr>
 </table>
