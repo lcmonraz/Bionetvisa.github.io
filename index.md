@@ -3,7 +3,7 @@ title: BioNetVisA workshop 2018
 layout: default
 ---
 
-<img src="" alt="Logo_BioNetVisA"/>
+<a href="/"><img id="logo" src="/Logo_ECCB2018.gif" style="width:160px;"/></a>
 <p> </p>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
