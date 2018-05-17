@@ -122,6 +122,11 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <p>To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <a href=/AbstractTemplate_BioNetVisA.docx><span style="text-decoration: underline;"><font color="Navy">TEMPLATE</font></span></a>
 </p>
 
+<p>When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
+</p>
+
+<a href="https://easychair.org/conferences/?conf=bionetvisa2018"><center>Submit your abstract here</center></a>
+
   
 
   
