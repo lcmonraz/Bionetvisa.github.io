@@ -3,7 +3,7 @@ title: BioNetVisA workshop 2018
 layout: default
 ---
 
-<a href="/"><img id="ECCB18" src="/Logo_ECCB2018.gif" style="width:160px;" class="center"></a>
+<center><a href="/"><img id="ECCB18" src="/Logo_ECCB2018.gif" style="width:160px;"/></a></center>
 <p> </p>
 
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
