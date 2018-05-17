@@ -7,9 +7,13 @@ layout: default
 <p> </p>
 
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
-From biological network reconstruction to data visualization and analysis in molecular biology and medicine
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## <center><front color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
 
+<p><strong><font size="15"> 09 September 2018</font></strong><br />
+  <a href="https://www.snfcc.org/default.aspx">Stavros Niarchos Foundation Cultural Center (SNFCC)</a>
+  Athens, Greece
+  <a href="http://eccb18.org/workshop-2/">Workshop website in ECCB 2018</a>
+  
 [Link to another page](./another-page.html).
 
 SUAVE LOMITO!
