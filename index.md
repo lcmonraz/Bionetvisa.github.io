@@ -67,8 +67,6 @@ comorbidity, drug response prediction using network-based approaches.
 <tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
   <tr><td><strong><font color="#e60000">15:30 - 17:00 Session 4</font><br />Biological network in drug repositioning and disease comorbidity</strong></td></tr>
 </table>
-
-<br/>
 <br/>
 
 ### Abstract submission instructions
