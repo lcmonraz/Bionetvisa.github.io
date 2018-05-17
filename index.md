@@ -94,6 +94,10 @@ comorbidity, drug response prediction using network-based approaches.
 <tr><td><b>September 10-12</b></td>
   <td><a href= "http://eccb18.org/">ECCB 2018 main conference</a></td></tr>
 </table>
+
+### Abstract submission instructions
+
+We invite to submit your abstract for <b>Talk and/or poster</b>
   
 
   
