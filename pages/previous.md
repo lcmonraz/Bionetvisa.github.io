@@ -1,3 +1,9 @@
+---
+title: Contact
+layout: default
+permalink: /previous
+---
+
 ### Previous Editions
 
 <p><a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2014.html">BioNetVisA 2014</a><br />
