@@ -80,17 +80,17 @@ Abstract text in unstructured format (maximum 300 words)
 The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</span></b> relevant topic sessions.
 </p>
 
-<p>To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="Navy">TEMPLATE</font></span></a>
+<p>To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
 </p>
 
 <p>When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
 </p>
 
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="12" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="10" color="#e60000"><center>Submit your abstract here</center></font></a></b>
 
 ### Registration
 
-<p>The registration has to be performed via the <a href="http://eccb18.org/registration/">ECCB website</a>
+<p>The registration has to be performed via the <b><a href="http://eccb18.org/registration/"><font color="#e60000">ECCB website</font></a></b>
 </p>
 
 ### Organising committee
