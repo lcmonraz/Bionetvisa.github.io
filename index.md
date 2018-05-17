@@ -97,7 +97,16 @@ comorbidity, drug response prediction using network-based approaches.
 
 ### Abstract submission instructions
 
-We invite to submit your abstract for <b>Talk and/or poster</b>
+We invite to submit your abstract for <b>Talk and/or poster</b> in the topics described above.
+
+#### <font color="#e60000">The submission deadline is July 6th 2018</font>
+
+<p>Submitted abstracts will be reviewed by the scientific program committee and notification of acceptance for <b>talk and/or poster</b> will be provided to the corresponding author by July 10th, 2018.</p>
+
+#### <font color="#e60000">Late abstract submission for posters only is possible till August 9th  2018</font>
+
+<p>Number of poster abstracts will be selected for flash poster presentations (3 minutes of topic advertisement).</p>
+
   
 
   
