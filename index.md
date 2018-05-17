@@ -165,7 +165,7 @@ for Integrative Medical Sciences, Japan)<br />
 Coming soon
 
 ### Contact us
-bionetvisa@curie.fr
+<a href="mailto:bionetvisa@curie.fr">bionetvisa@curie.fr</a>
 
 ### Sponsors
 TBA
