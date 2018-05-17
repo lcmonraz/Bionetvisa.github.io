@@ -9,15 +9,15 @@ layout: default
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
 
-<p><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
+<p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
 
 ### Motivation
 
-<p>The goal of <b>BioNetVisA</b> workshop is to build a discussion around various approaches for biological knowledge formalisation, data integration and analysis; compatibility between different methods and biological networks resources available the field; applicability for concrete research and clinical projects depending on scientific question and type of high-throughput data.
+<p align="justify">The goal of <b>BioNetVisA</b> workshop is to build a discussion around various approaches for biological knowledge formalisation, data integration and analysis; compatibility between different methods and biological networks resources available the field; applicability for concrete research and clinical projects depending on scientific question and type of high-throughput data.
 </p>
 
-<p>The <b>BioNetVisA</b> workshop aims at identifying bottlenecks and proposing short- and long-term objectives for the community as discussing questions about accessibility of available tools for wide range of user in every-day standalone application in biological and clinical labs. In addition, the possibilities for collective efforts by academic researchers, clinicians, biotech companies and future development directions in the field will be discussed during the round table panel.
+<p align="justify">The <b>BioNetVisA</b> workshop aims at identifying bottlenecks and proposing short- and long-term objectives for the community as discussing questions about accessibility of available tools for wide range of user in every-day standalone application in biological and clinical labs. In addition, the possibilities for collective efforts by academic researchers, clinicians, biotech companies and future development directions in the field will be discussed during the round table panel.
 </p>
 
 ### Topics
@@ -35,23 +35,23 @@ Networks in disease comorbidity studies<br />
 </p>
 
 ### Scope
-<p><b>Development, curation and maintenance of biological network resources</b><br />
+<p align="justify"><b>Development, curation and maintenance of biological network resources</b><br />
 Data models from interaction to pathway and network, available tools for the integration of new discoveries into existing signalling diagrams. Discussion of curation models from map manager-oriented to community-based update using web-tools and forums.
 </p>
 
-<p><b>Cell signalling knowledge representation paradigms</b><br />
+<p align="justify"><b>Cell signalling knowledge representation paradigms</b><br />
 From interaction to single pathways representation to comprehensive signalling networks: discussion of modes of biological processes representation; granularity, coverage, sources of information, annotation modes, cross-citations between different signalling networks resources, etc. Standard for graphical representation and data formats.
 </p>
 
-<p><b>Visualization of data through networks</b><br />
+<p align="justify"><b>Visualization of data through networks</b><br />
 Paradigms of visualization of different types of high-throughput data on a network map. Data integration with a map. Methods compatibility with different paradigms of signalling networks reconstruction in various databases and resources.
 </p>
 
-<p><b>Analytical tools for network biology</b><br />
+<p align="justify"><b>Analytical tools for network biology</b><br />
 Tools for network analysis and manipulation, network modeling, network-based statistics. Studying network activation and inhibition, feedbacks and compensations, synthetic interactions.
 </p>
 
-<p><b>Applications of networks in multi-omics data analysis in biomedical research and in clinics</b><br />
+<p align="justify"><b>Applications of networks in multi-omics data analysis in biomedical research and in clinics</b><br />
 Studies on single-cell data, microbiome, metabolomics and other omics data analysis, disease
 comorbidity, drug response prediction using network-based approaches.
 </p>
@@ -76,14 +76,14 @@ Affiliations<br />
 Abstract text in unstructured format (maximum 300 words)
 </p>
   
-<p><b>Submission process</b><br />
+<p align="justify"><b>Submission process</b><br />
 The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</span></b> relevant topic sessions.
 </p>
 
-<p>To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
+<p align="justify">To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
 </p>
 
-<p>When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
+<p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
 </p>
 
 <b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
