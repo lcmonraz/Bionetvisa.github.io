@@ -1,3 +1,11 @@
+---
+title: Contact
+layout: default
+permalink: /importantdates
+---
+
+
+
 ### Important dates
 
 <table style="width 100%">
