@@ -3,8 +3,11 @@ title: BioNetVisA workshop 2018
 layout: default
 ---
 
-<a href="/"><img id="logo" src="/Logo_ECCB2018.gif" style="width:160px;"/></a>
+<a href="/"><img id="ECCB18" src="/Logo_ECCB2018.gif" style="width:160px;"/></a>
 <p> </p>
+
+<center>BioNetVisA 2018 workshop</center>
+ From biological network reconstruction to data visualization and analysis in molecular biology and medicine
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
