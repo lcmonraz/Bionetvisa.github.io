@@ -6,7 +6,7 @@ layout: default
 <a href="/"><img id="ECCB18" src="/Logo_ECCB2018.gif" style="width:160px;"/></a>
 <p> </p>
 
-#<center><font color=#e60000>BioNetVisA 2018 workshop</font></center>
+#<center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 From biological network reconstruction to data visualization and analysis in molecular biology and medicine
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
