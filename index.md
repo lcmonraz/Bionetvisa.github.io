@@ -14,6 +14,11 @@ layout: default
   Athens, Greece<br />
   <a href="http://eccb18.org/workshop-2/">Workshop website in ECCB 2018</a>
 </p>
+
+<p><b>BioNetVisA</b>workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
+</p>
+
+
   
 [Link to another page](./another-page.html).
 
