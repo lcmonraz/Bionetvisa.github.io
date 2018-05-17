@@ -116,7 +116,7 @@ Abstract text in unstructured format (maximum 300 words)
 </p>
   
 <p><b>Submission process</b><br />
-The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</b></span> relevant topic sessions.
+The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</span></b> relevant topic sessions.
 </p>
 
 <p>To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <a href=/AbstractTemplate_BioNetVisA.docx><span style="text-decoration: underline;"><font color="Navy">TEMPLATE</font></span></a>
