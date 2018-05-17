@@ -1,7 +1,6 @@
 ---
 title: BioNetVisA workshop 2018
 layout: default
-permalink: /bionetvisa
 ---
 
 <center><a href="/"><img id="ECCB18" src="/Logo_ECCB2018.gif" style="width:160px;"/></a></center>
