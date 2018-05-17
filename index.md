@@ -24,6 +24,7 @@ layout: default
 </p>
 
 <p>The <b>BioNetVisA</b> workshop aims at identifying bottlenecks and proposing short- and long-term objectives for the community as discussing questions about accessibility of available tools for wide range of user in every-day standalone application in biological and clinical labs. In addition, the possibilities for collective efforts by academic researchers, clinicians, biotech companies and future development directions in the field will be discussed during the round table panel.
+</p>
 
 ### Topics
 <p>Graphical representation of biological knowledge<br />
@@ -35,10 +36,46 @@ Basic research and clinical application of networks<br />
 Microbiome and networks<br />
 Networks for single-cell data interpretation<br />
 Metabolomics and networks<br />
-Networks applications for drug repositioning
+Networks applications for drug repositioning<br />
+Networks in disease comorbidity studies<br />
 </p>
 
-Networks in disease comorbidity studies
+### Scope
+<p><b>Development, curation and maintenance of biological network resources</b><br />
+Data models from interaction to pathway and network, available tools for the integration of new discoveries into existing signalling diagrams. Discussion of curation models from map manager-oriented to community-based update using web-tools and forums.
+</p>
+
+<p><b>Cell signalling knowledge representation paradigms</b><br />
+From interaction to single pathways representation to comprehensive signalling networks: discussion of modes of biological processes representation; granularity, coverage, sources of information, annotation modes, cross-citations between different signalling networks resources, etc. Standard for graphical representation and data formats.
+</p>
+
+<p><b>Visualization of data through networks</b><br />
+Paradigms of visualization of different types of high-throughput data on a network map. Data integration with a map. Methods compatibility with different paradigms of signalling networks reconstruction in various databases and resources.
+</p>
+
+<p><b>Analytical tools for network biology</b><br />
+Tools for network analysis and manipulation, network modeling, network-based statistics. Studying network activation and inhibition, feedbacks and compensations, synthetic interactions.
+</p>
+
+<p><b>Applications of networks in multi-omics data analysis in biomedical research and in clinics</b><br />
+Studies on single-cell data, microbiome, metabolomics and other omics data analysis, disease
+comorbidity, drug response prediction using network-based approaches.
+</p>
+
+### BioNetVisA programme
+
+<table>
+<tr><td><strong>09:00 - 10:30 Session 1<br />Signalling and metabolic network resources</strong></td></tr>
+<tr><td><i>10:30 - 11:00 Coffee break</i></td></tr> 
+<tr><td><strong>11:00 - 12:30 Session 2<br />Platforms and methods for analysis of complex networks</strong></td</tr>
+<tr><td><i>12:30 - 13:30 Lunch</i></td></tr>
+<tr><td><strong>13:30 - 15:00 Session 3<br />Biological networks in single-cell data analysis</strong></td></tr>
+<tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
+<tr><td><strong>15:30 - 17:00 Session 4<br />Biological network in drug repositioning and disease comorbidity</strong></td></tr>
+</table>
+
+  
+  
 
   
 [Link to another page](./another-page.html).
