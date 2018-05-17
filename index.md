@@ -10,9 +10,9 @@ layout: default
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
 
 <p><strong>09 September 2018</strong><br />
-  <a href="https://www.snfcc.org/default.aspx">Stavros Niarchos Foundation Cultural Center (SNFCC)</a><br />
-  Athens, Greece<br />
-  <a href="http://eccb18.org/workshop-2/">Workshop website in ECCB 2018</a>
+<a href="https://www.snfcc.org/default.aspx">Stavros Niarchos Foundation Cultural Center (SNFCC)</a><br />
+Athens, Greece<br />
+<a href="http://eccb18.org/workshop-2/">Workshop website in ECCB 2018</a>
 </p>
 
 <p><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
@@ -127,123 +127,45 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 
 <a href="https://easychair.org/conferences/?conf=bionetvisa2018"><center>Submit your abstract here</center></a>
 
-  
+### Registration
 
-  
-[Link to another page](./another-page.html).
+<p>The registration has to be performed via the <a href="http://eccb18.org/registration/">ECCB website</a>
+</p>
 
-SUAVE LOMITO!
+### Organising committee
+<p><a href="http://sysbio.curie.fr/">Inna Kuperstein</a> (Institut Curie, France)<br />
+<a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
+<a href="http://www.ihes.fr/~zinovyev/">Andrei Zinovyev</a> (Institut Curie, France)<br />
+<a href="http://sysbio.curie.fr/">Luis Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
+<a href="http://www.sbi.jp/">Hioraki Kitano</a> (Okinawa Institute of Science and Technology Graduate University, RIKEN Center
+for Integrative Medical Sciences, Japan)<br />
+<a href="http://www.kanehisa.jp/en/kanehisa.html">Minoru Kanehisa</a> (Institute for Chemical Research, Kyoto University, Japan)<br />
+<a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
+<a href="https://lenoverelab.org/">Nicolas Le Novère</a> (Babraham Institute, UK)<br />
+<a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
+<a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Spanish National Bioinformatics Institute, Madrid, Spain)<br/>
+<a href="https://www.nki.nl/divisions/molecular-carcinogenesis/wessels-l-group/">Lodewyk Wessels</a> (Netherlands Cancer Institute, Amsterdam, Netherlands)<br />
+  <a href="https://www.prinsesmaximacentrum.com/">Patrick Kemmeren</a> (Princess Maxima Center for Pediatric Oncology, Utrecht, Netherands)
+</p>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Venue
 
-# <font color="Red">Khe?</font>
+<a href="https://www.snfcc.org/default.aspx">Stavros Niarchos Foundation Cultural Center (SNFCC)</a>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Previous Editions
 
-## Header 2
+<p><a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2014.html">BioNetVisA 2014</a><br />
+<a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2015.html">BioNetVisA 2015</a><br />
+<a href="http://sysbio.curie.fr/bionetvisa/bionetvisa2016.html">BioNetVisA 2016</a><br />
+<a href="http://sysbio.curie.fr/bionetvisa/">BioNetVisA 2017</a><br />
+</p>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Downloads
 
-### Header 3
+Coming soon
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Contact us
+bionetvisa@curie.fr
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Sponsors
+TBA
