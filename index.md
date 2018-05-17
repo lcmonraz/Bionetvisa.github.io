@@ -86,7 +86,7 @@ comorbidity, drug response prediction using network-based approaches.
 <tr><td><b>July 15</b></td>
   <td>Workshop’s final program announcement</td></tr>
 <tr><td><b>July 29</b></td>
-  <td>Early bird registration deadline <a href="http://eccb18.org/registration/">Register here<a></td></tr>
+  <td>Early bird registration deadline <a href="http://eccb18.org/registration/">Register here</a></td></tr>
 <tr><td><b>August 9</b></td>
   <td>Late abstract submission deadline (for posters only)</td></tr>
 <tr><td><b>September 9</b></td>
