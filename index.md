@@ -9,12 +9,6 @@ layout: default
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
 
-<p><strong>09 September 2018</strong><br />
-<a href="https://www.snfcc.org/default.aspx">Stavros Niarchos Foundation Cultural Center (SNFCC)</a><br />
-Athens, Greece<br />
-<a href="http://eccb18.org/workshop-2/">Workshop website in ECCB 2018</a>
-</p>
-
 <p><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
 
@@ -92,7 +86,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <p>When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
 </p>
 
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="14" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="12" color="#e60000"><center>Submit your abstract here</center></font></a></b>
 
 ### Registration
 
