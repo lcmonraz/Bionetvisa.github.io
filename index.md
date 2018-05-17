@@ -101,11 +101,26 @@ We invite to submit your abstract for <b>Talk and/or poster</b> in the topics de
 
 #### <font color="#e60000">The submission deadline is July 6th 2018</font>
 
-<p>Submitted abstracts will be reviewed by the scientific program committee and notification of acceptance for <b>talk and/or poster</b> will be provided to the corresponding author by July 10th, 2018.</p>
+<p>Submitted abstracts will be reviewed by the scientific program committee and notification of acceptance for <b>talk and/or poster</b> will be provided to the corresponding author by July 10th, 2018.
+</p>
 
 #### <font color="#e60000">Late abstract submission for posters only is possible till August 9th  2018</font>
 
-<p>Number of poster abstracts will be selected for flash poster presentations (3 minutes of topic advertisement).</p>
+<p>Number of poster abstracts will be selected for flash poster presentations (3 minutes for topic advertised).</p>
+
+<p><b>Abstract format:</b><br />
+Title<br />
+List of authors (the first author is the presenting author)<br />
+Affiliations<br />
+Abstract text in unstructured format (maximum 300 words)
+</p>
+  
+<p><b>Submission process</b><br />
+The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</b></span> relevant topic sessions.
+</p>
+
+<p>To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <a href=/AbstractTemplate_BioNetVisA.docx><span style="text-decoration: underline;"><font color="Navy">TEMPLATE</font></span></a>
+</p>
 
   
 
