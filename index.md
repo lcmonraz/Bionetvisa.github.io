@@ -56,6 +56,18 @@ Studies on single-cell data, microbiome, metabolomics and other omics data analy
 comorbidity, drug response prediction using network-based approaches.
 </p>
 
+### BioNetVisA 2018 programme
+
+<table>
+  <tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1</font><br />Signalling and metabolic network resources</strong></td></tr>
+<tr><td><i>10:30 - 11:00 Coffee break</i></td></tr> 
+  <tr><td><strong><font color="#e60000">11:00 - 12:30 Session 2</font><br />Platforms and methods for analysis of complex networks</strong></td></tr>
+<tr><td><i>12:30 - 13:30 Lunch</i></td></tr>
+  <tr><td><strong><font color="#e60000">13:30 - 15:00 Session 3</font><br />Biological networks in single-cell data analysis</strong></td></tr>
+<tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
+  <tr><td><strong><font color="#e60000">15:30 - 17:00 Session 4</font><br />Biological network in drug repositioning and disease comorbidity</strong></td></tr>
+</table>
+
 ### Abstract submission instructions
 
 We invite to submit your abstract for <b>Talk and/or poster</b> in the topics described above.
@@ -98,8 +110,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
 <a href="http://www.ihes.fr/~zinovyev/">Andrei Zinovyev</a> (Institut Curie, France)<br />
 <a href="http://sysbio.curie.fr/">Luis Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
-<a href="http://www.sbi.jp/">Hioraki Kitano</a> (Okinawa Institute of Science and Technology Graduate University, RIKEN Center
-for Integrative Medical Sciences, Japan)<br />
+<a href="http://www.sbi.jp/">Hioraki Kitano</a> (RIKEN Center for Integrative Medical Sciences, Japan)<br />
 <a href="http://www.kanehisa.jp/en/kanehisa.html">Minoru Kanehisa</a> (Institute for Chemical Research, Kyoto University, Japan)<br />
 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
 <a href="https://lenoverelab.org/">Nicolas Le Novère</a> (Babraham Institute, UK)<br />
