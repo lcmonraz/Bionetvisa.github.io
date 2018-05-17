@@ -15,9 +15,30 @@ layout: default
   <a href="http://eccb18.org/workshop-2/">Workshop website in ECCB 2018</a>
 </p>
 
-<p><b>BioNetVisA</b>workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
+<p><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
 
+### Motivation
+
+<p>The goal of <b>BioNetVisA</b> workshop is to build a discussion around various approaches for biological knowledge formalisation, data integration and analysis; compatibility between different methods and biological networks resources available the field; applicability for concrete research and clinical projects depending on scientific question and type of high-throughput data.
+</p>
+
+<p>The <b>BioNetVisA</b> workshop aims at identifying bottlenecks and proposing short- and long-term objectives for the community as discussing questions about accessibility of available tools for wide range of user in every-day standalone application in biological and clinical labs. In addition, the possibilities for collective efforts by academic researchers, clinicians, biotech companies and future development directions in the field will be discussed during the round table panel.
+
+### Topics
+<p>Graphical representation of biological knowledge<br />
+Pathway and network resources<br />
+Networks annotation and curation<br />
+Multi-omics data visualization and analysis in the context of networks<br />
+Network modelling<br />
+Basic research and clinical application of networks<br />
+Microbiome and networks<br />
+Networks for single-cell data interpretation<br />
+Metabolomics and networks<br />
+Networks applications for drug repositioning
+</p>
+
+Networks in disease comorbidity studies
 
   
 [Link to another page](./another-page.html).
