@@ -6,7 +6,7 @@ layout: default
 <a href="/"><img id="ECCB18" src="/Logo_ECCB2018.gif" style="width:160px;"/></a>
 <p> </p>
 
-#<center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
+# <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 From biological network reconstruction to data visualization and analysis in molecular biology and medicine
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -16,7 +16,7 @@ SUAVE LOMITO!
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# <font color="Red">Header 1</font>
+# <font color="Red">Khe?</font>
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
