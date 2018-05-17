@@ -1,3 +1,9 @@
+---
+title: Contact
+layout: default
+permalink: /venue
+---
+
 
 ### Venue
 
