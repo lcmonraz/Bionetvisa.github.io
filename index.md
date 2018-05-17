@@ -86,7 +86,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <p>When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
 </p>
 
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="10" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
 
 ### Registration
 
