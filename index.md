@@ -58,13 +58,13 @@ comorbidity, drug response prediction using network-based approaches.
 
 ### Confirmed Speakers
 <table>
-<tr><td><strong> Yvan Sayes<strong><br />
-<i>VIB-Ghent University, Gent, Belgium</i>
-Inferring dynamic regulatory networks from single cell data
+<tr><td><strong> Yvan Sayes</strong><br />
+<i>VIB-Ghent University, Gent, Belgium</i><br />
+Inferring dynamic regulatory networks from single cell data<br />
 <a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong> Samik Ghosh<strong><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i>
-Towards a network-centric approach in systems toxicology
+<tr><td><strong> Samik Ghosh</strong><br />
+<i>The Systems Biology Institute, Tokyo, Japan</i><br />
+Towards a network-centric approach in systems toxicology<br />
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
 
