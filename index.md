@@ -66,6 +66,7 @@ Inferring dynamic regulatory networks from single cell data
 <i>The Systems Biology Institute, Tokyo, Japan</i>
 Towards a network-centric approach in systems toxicology
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+</table>
 
 ### BioNetVisA 2018 programme
 
