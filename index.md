@@ -62,7 +62,7 @@ comorbidity, drug response prediction using network-based approaches.
 <i>The Systems Biology Institute, Tokyo, Japan</i><br />
 <strong>Towards a network-centric approach in systems toxicology</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong><a href="http://pavlopouloslab.info">Georgios R Pavlopoulos</a></strong><br />
+<tr><td><strong><a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></strong><br />
 <i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
 <strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
