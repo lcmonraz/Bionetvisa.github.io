@@ -58,14 +58,21 @@ comorbidity, drug response prediction using network-based approaches.
 
 ### Confirmed Speakers
 <table>
-<tr><td><strong> Yvan Sayes</strong><br />
-<i>VIB-Ghent University, Gent, Belgium</i><br />
-Inferring dynamic regulatory networks from single cell data<br />
-<a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong> Samik Ghosh</strong><br />
+<tr><td><strong><a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></strong><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i><br />
-Towards a network-centric approach in systems toxicology<br />
+<strong>Towards a network-centric approach in systems toxicology</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><strong><a href="http://pavlopouloslab.info">Georgios R Pavlopoulos</a></strong><br />
+<i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
+<strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><strong><a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Sayes</a></strong><br />
+<i>VIB-Ghent University, Gent, Belgium</i><br />
+<strong>Inferring dynamic regulatory networks from single cell data</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><strong><a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a></strong><br />
+<i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
+<strong>Disease networks for the study of the molecular basis of disease comorbidity</strong><br />
 </table>
 
 ### BioNetVisA 2018 programme
