@@ -72,7 +72,7 @@ comorbidity, drug response prediction using network-based approaches.
 <a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><strong><a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a></strong><br />
 <i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
-<strong>Disease networks for the study of the molecular basis of disease comorbidity</strong><br />
+<strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
 </table>
 
 ### BioNetVisA 2018 programme
@@ -86,7 +86,7 @@ comorbidity, drug response prediction using network-based approaches.
 <tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
 <tr><td><strong><font color="#e60000">15:30 - 17:00 Session 4</font><br />Biological network in drug repositioning and disease comorbidity</strong></td></tr>
 </table>
-<b/>
+
 ### Abstract submission instructions
 
 We invite to submit your abstract for <b>Talk and/or poster</b> in the topics described above.
