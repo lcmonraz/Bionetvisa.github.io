@@ -62,6 +62,7 @@ comorbidity, drug response prediction using network-based approaches.
 <i>The Systems Biology Institute, Tokyo, Japan</i><br />
 <strong>Towards a network-centric approach in systems toxicology</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+ 
 <tr><td><strong><a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></strong><br />
 <i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
 <strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
@@ -79,11 +80,11 @@ comorbidity, drug response prediction using network-based approaches.
 
 <table>
 <tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1: Signalling and metabolic network resources</font></strong></td>
-<td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></strong><br />
+<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></strong><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i><br />
 <strong>Towards a network-centric approach in systems toxicology</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-  
+
 <tr><td><i>10:30 - 11:00 Coffee break</i></td></tr> 
 <tr><td><strong><font color="#e60000">11:00 - 12:30 Session 2</font><br />Platforms and methods for analysis of complex networks</strong></td></tr>
 <tr><td><i>12:30 - 13:30 Lunch</i></td></tr>
