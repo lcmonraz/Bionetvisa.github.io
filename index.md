@@ -41,7 +41,7 @@ layout: default
 </table>
 
 <table>
-<tr><i>10:30 - 11:00 Coffee break</i></tr>
+ <tr><td><i>10:30 - 11:00 Coffee break</td></i></tr>
 </table>
 
 <table>
@@ -58,7 +58,7 @@ layout: default
 </table>
 
 <table>
-<tr><i>12:30 - 13:30 Lunch</i></tr>
+<tr><td><i>12:30 - 13:30 Lunch</i></td></tr>
 </table>
 
 <table>
@@ -74,7 +74,7 @@ layout: default
 </table>
 
 <table>
-<tr><i>15:00 - 15:30 Coffee break</i><tr>
+<tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
 </table>
 
 <table>
