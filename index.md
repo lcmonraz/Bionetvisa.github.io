@@ -37,10 +37,12 @@ layout: default
 <i>Fundación Progreso y Salud, Sevilla, Spain</i><br />
 <strong>TBA</strong><br />
 </td></tr>
- <tr><td><b>09:55 - 10:30 Talks selected from abstracts</b></td></tr>
+<tr><td><b>09:55 - 10:30 Talks selected from abstracts</b></td></tr>
 </table>
 
-<i>10:30 - 11:00 Coffee break</i>
+<table>
+<tr><i>10:30 - 11:00 Coffee break</i></tr>
+</table>
 
 <table>
 <tr><td><strong><font color="#e60000">11:00 - 12:30 Session 2: Platforms and methods for analysis of complex networks</font></strong></td></tr>
@@ -55,7 +57,9 @@ layout: default
 <tr><td><b>11:40 - 12:30 Talks selected from abstracts</b><br /></td></tr>
 </table>
 
-<i>12:30 - 13:30 Lunch</i>
+<table>
+<tr><i>12:30 - 13:30 Lunch</i></tr>
+</table>
 
 <table>
 <tr><th><font color="#e60000">13:30 - 15:00 Session 3: Biological networks in single-cell data analysis</font></th></tr>
@@ -69,14 +73,16 @@ layout: default
 <tr><td><b>14:10 - 15:00 Talks selected from Abstracts</b></td></tr>
 </table>
 
-<i>15:00 - 15:30 Coffee break</i>
+<table>
+<tr><i>15:00 - 15:30 Coffee break</i><tr>
+</table>
 
 <table>
-<th><font color="#e60000">15:30 - 17:00 Session 4: Biological network in drug repositioning and disease comorbidity</font></th>
-<tr><td><b>15:30 - 16:10 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> Keynote Lecturer<b><br />
+<tr><th><font color="#e60000">15:30 - 17:00 Session 4: Biological network in drug repositioning and disease comorbidity</font></th></tr>
+<tr><td><b>15:30 - 16:10 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> Keynote Lecturer</b><br />
 <i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
 <strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
- <tr><td><b>16:10 - 17:00 Talks selected from abstracts</b></td></tr>
+<tr><td><b>16:10 - 17:00 Talks selected from abstracts</b></td></tr>
 </table>
 
 ### Topics
