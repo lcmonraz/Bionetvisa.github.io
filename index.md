@@ -69,7 +69,7 @@ layout: default
 <a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>13:50 - 14:10 <a href="https://sysbio.curie.fr/people.html">Andrei Zinovyev</a></b><br />
 <i>Institute Curie, Paris, France</i><br />
-<strong>TBA</strong><br /></td></tr> 
+<strong>Biological networks help unraveling tumoral heterogeneity at single cell level</strong><br /></td></tr> 
 <tr><td><b>14:10 - 15:00 Talks selected from Abstracts</b></td></tr>
 </table>
 
