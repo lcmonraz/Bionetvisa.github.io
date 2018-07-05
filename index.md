@@ -41,7 +41,7 @@ layout: default
 </table>
 
 <table>
- <tr><td><i>10:30 - 11:00 Coffee break</td></i></tr>
+ <tr><td><i>10:30 - 11:00 Coffee break</i></td></tr>
 </table>
 
 <table>
