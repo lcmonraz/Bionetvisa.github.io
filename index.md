@@ -79,8 +79,8 @@ comorbidity, drug response prediction using network-based approaches.
 ### BioNetVisA 2018 programme
 
 <table>
-<tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1: Signalling and metabolic network resources</font></strong></td>
-<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></strong><br />
+<tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1: Signalling and metabolic network resources</font></strong></td></tr>
+<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i><br />
 <strong>Towards a network-centric approach in systems toxicology</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
