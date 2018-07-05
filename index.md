@@ -8,6 +8,7 @@ layout: default
 
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
+<p align="center"><b><a href="https://easychair.org/conferences/?conf=bionetvisa2018">Submit your abstract today!</a></b></p>
 
 <p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
@@ -19,6 +20,64 @@ layout: default
 
 <p align="justify">The <b>BioNetVisA</b> workshop aims at identifying bottlenecks and proposing short- and long-term objectives for the community as discussing questions about accessibility of available tools for wide range of user in every-day standalone application in biological and clinical labs. In addition, the possibilities for collective efforts by academic researchers, clinicians, biotech companies and future development directions in the field will be discussed during the round table panel.
 </p>
+
+### BioNetVisA 2018 programme
+
+<table>
+<tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1: Signalling and metabolic network resources</font></strong></td></tr>
+<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
+<i>The Systems Biology Institute, Tokyo, Japan</i><br />
+<strong>Towards a network-centric approach in systems toxicology</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>09:20 - 09:35 <a href="https://sysbio.curie.fr/">Cristobal Monraz Gomez</a></b><br />
+<i>Institut Curie, Paris, France</i><br />
+<strong>Atlas of Cancer Signaling Network: a resource of multi-scale biological maps to study disease mechanisms</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Cristobal_Monraz_Gomez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
+<tr><td><b>09:35 - 09:55 <a href="http://bioinfo.cipf.es/jdopazo/start">Joaquin Dopazo</a></b><br />
+<i>Fundación Progreso y Salud, Sevilla, Spain</i><br />
+<strong>TBA</strong><br />
+</td></tr>
+ <tr><td><b>09:55 - 10:30 Talks selected from abstracts</b></td></tr>
+</table>
+
+<i>10:30 - 11:00 Coffee break</i>
+
+<table>
+<tr><td><strong><font color="#e60000">11:00 - 12:30 Session 2: Platforms and methods for analysis of complex networks</font></strong></td></tr>
+<tr><td><b>11:00 - 11:20 <a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></b><br />
+<i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
+<strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>11:20 - 11:40 <a href="https://www.researchgate.net/profile/Anna_Niarakis">Anna Niarakis</a></b><br />
+<i>GenHotel EA3886, Univ Evry, Université Paris-Saclay, France</i><br />
+<strong>Disease Networks - Reconstruction, Topology, Dynamics. Towards an automated pipeline from static representations to executable disease models</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Anna_Niarakis_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>11:40 - 12:30 Talks selected from abstracts</b><br /></td></tr>
+</table>
+
+<i>12:30 - 13:30 Lunch</i>
+
+<table>
+<tr><th><font color="#e60000">13:30 - 15:00 Session 3: Biological networks in single-cell data analysis</font></th></tr>
+<tr><td><b>13:30 - 13:50 <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b><br />
+<i>VIB-Ghent University, Gent, Belgium</i><br />
+<strong>Inferring dynamic regulatory networks from single cell data</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>13:50 - 14:10 <a href="https://sysbio.curie.fr/people.html">Andrei Zinovyev</a></b><br />
+<i>Institute Curie, Paris, France</i><br />
+<strong>TBA</strong><br /></td></tr> 
+<tr><td><b>14:10 - 15:00 Talks selected from Abstracts</b></td></tr>
+</table>
+
+<i>15:00 - 15:30 Coffee break</i>
+
+<table>
+<th><font color="#e60000">15:30 - 17:00 Session 4: Biological network in drug repositioning and disease comorbidity</font></th>
+<tr><td><b>15:30 - 16:10 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> Keynote Lecturer<b><br />
+<i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
+<strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
+ <tr><td><b>16:10 - 17:00 Talks selected from abstracts</b></td></tr>
+</table>
 
 ### Topics
 <p>Graphical representation of biological knowledge<br />
@@ -56,42 +115,6 @@ Studies on single-cell data, microbiome, metabolomics and other omics data analy
 comorbidity, drug response prediction using network-based approaches.
 </p>
 
-### Confirmed Speakers
-<table>
-<tr><td><strong><a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></strong><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i><br />
-<strong>Towards a network-centric approach in systems toxicology</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
- 
-<tr><td><strong><a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></strong><br />
-<i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
-<strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong><a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Sayes</a></strong><br />
-<i>VIB-Ghent University, Gent, Belgium</i><br />
-<strong>Inferring dynamic regulatory networks from single cell data</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><strong><a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a></strong><br />
-<i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
-<strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
-</table>
-
-### BioNetVisA 2018 programme
-
-<table>
-<tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1: Signalling and metabolic network resources</font></strong></td></tr>
-<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i><br />
-<strong>Towards a network-centric approach in systems toxicology</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-
-<tr><td><i>10:30 - 11:00 Coffee break</i></td></tr> 
-<tr><td><strong><font color="#e60000">11:00 - 12:30 Session 2</font><br />Platforms and methods for analysis of complex networks</strong></td></tr>
-<tr><td><i>12:30 - 13:30 Lunch</i></td></tr>
-<tr><td><strong><font color="#e60000">13:30 - 15:00 Session 3</font><br />Biological networks in single-cell data analysis</strong></td></tr>
-<tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
-<tr><td><strong><font color="#e60000">15:30 - 17:00 Session 4</font><br />Biological network in drug repositioning and disease comorbidity</strong></td></tr>
-</table>
 
 ### Abstract submission instructions
 
