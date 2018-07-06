@@ -34,8 +34,9 @@ layout: default
 <strong>Atlas of Cancer Signaling Network: a resource of multi-scale biological maps to study disease mechanisms</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Cristobal_Monraz_Gomez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
 <tr><td><b>09:35 - 09:55 <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b><br />
-<i>Fundación Progreso y Salud, Sevilla, Spain</i><br />
-<strong>TBA</strong><br />
+<i>Fundación Progreso y Salud, Seville, Spain</i><br />
+<strong>Navigating through disease maps</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Joaquin_Dopazo_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
 </td></tr>
 <tr><td><b>09:55 - 10:30 Talks selected from abstracts</b></td></tr>
 </table>
