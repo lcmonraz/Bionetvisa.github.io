@@ -37,7 +37,6 @@ layout: default
 <i>Fundación Progreso y Salud, Seville, Spain</i><br />
 <strong>Navigating through disease maps</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Joaquin_Dopazo_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-</td></tr>
 <tr><td><b>09:55 - 10:30 Talks selected from abstracts</b></td></tr>
 </table>
 
