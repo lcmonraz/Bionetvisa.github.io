@@ -33,7 +33,7 @@ layout: default
 <i>Institut Curie, Paris, France</i><br />
 <strong>Atlas of Cancer Signaling Network: a resource of multi-scale biological maps to study disease mechanisms</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Cristobal_Monraz_Gomez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>09:35 - 09:55 <a href="http://bioinfo.cipf.es/jdopazo/start">Joaquin Dopazo</a></b><br />
+<tr><td><b>09:35 - 09:55 <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b><br />
 <i>Fundación Progreso y Salud, Sevilla, Spain</i><br />
 <strong>TBA</strong><br />
 </td></tr>
