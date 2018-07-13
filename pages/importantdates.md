@@ -25,5 +25,3 @@ permalink: /importantdates
   <td><b><a href= "http://eccb18.org/"><font color="#e60000">ECCB 2018 main conference</font></a></b></td></tr>
 </table>
 
-<<! <tr><td><b>August 9</b></td>
-  <td>Late abstract submission deadline (for posters only)</td></tr> >>
