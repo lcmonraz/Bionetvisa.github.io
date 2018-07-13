@@ -37,7 +37,11 @@ layout: default
 <i>Fundación Progreso y Salud, Seville, Spain</i><br />
 <strong>Navigating through disease maps</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Joaquin_Dopazo_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>09:55 - 10:30 Talks selected from abstracts</b></td></tr>
+<tr><td><b>09:55 - 10:10 <a href="https://www.ebi.ac.uk/about/people/antonio-fabregat-mundo">Antonio Fabregat</a></b><br />
+<i>EMBL-EBI, Hinxton, UK</i><br />
+<strong>The Reactome Pathway Knowledgebase</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Antonio_Fabregat_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
+<tr><td><b>10:10 - 10:30 Talks selected from abstracts</b></td></tr>
 </table>
 
 <table>
@@ -54,7 +58,15 @@ layout: default
 <i>GenHotel EA3886, Univ Evry, Université Paris-Saclay, France</i><br />
 <strong>Disease Networks - Reconstruction, Topology, Dynamics. Towards an automated pipeline from static representations to executable disease models</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Anna_Niarakis_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:40 - 12:30 Talks selected from abstracts</b><br /></td></tr>
+<tr><td><b>11:40 - 11: 55 <a href="https://www.researchgate.net/profile/Josephine_Daub">Josephine Daub</a></b><br />
+<i>Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands</i><br />
+<strong>Genetic interactions in childhood cancer</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Josephine_Daub_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>11:55 - 12: 10 <a href="https://www.research.ed.ac.uk/portal/en/persons/barbara-shih(0a863546-b83e-4884-90cc-4d796da614d4).html">Barbara Shih</a></b><br />
+<i>The Roslin Institute and Royal (Dick) School of Veterinary Studies, the University of Edinburgh, Easter Bush, Midlothian, Edinburgh, UK</i><br />
+<strong>A platform for the network assembly and visual analysis of transcript isoforms from short-read RNA-sequencing data</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Barbara_Shih_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>12:10 - 12:30 Talks selected from abstracts</b></td></tr>
 </table>
 
 <table>
@@ -70,7 +82,11 @@ layout: default
 <tr><td><b>13:50 - 14:10 <a href="https://sysbio.curie.fr/people.html">Andrei Zinovyev</a></b><br />
 <i>Institute Curie, Paris, France</i><br />
 <strong>Biological networks help unraveling tumoral heterogeneity at single cell level</strong><br /></td></tr> 
-<tr><td><b>14:10 - 15:00 Talks selected from Abstracts</b></td></tr>
+<tr><td><b>14:10 - 14:25 <a href="https://www.researchgate.net/profile/Anirudh_Patir3">Anirudh Patir</a></b><br />
+<i>The University of Edinburgh, Edinburgh, UK</i><br />
+<strong>Evaluation of network methods for the analysis scRNA-seq data and development of a new KNN-based method based on identified caveats</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Anirudh_Patir_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>14:25 - 15:00 Talks selected from Abstracts</b></td></tr>
 </table>
 
 <table>
@@ -82,7 +98,15 @@ layout: default
 <tr><td><b>15:30 - 16:10 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> Keynote Lecturer</b><br />
 <i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
 <strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
-<tr><td><b>16:10 - 17:00 Talks selected from abstracts</b></td></tr>
+<tr><td><b>16:10 - 16:25 <a href="http://www.ibens.ens.fr/spip.php?article95">Celine Hernandez</a></b><br />
+<i>Institut de Biologie de l’Ecole Normale Supérieure, Paris, France</i><br />
+<strong>Dynamical modelling of T cell co-inhibitory pathways to predict anti-tumour responses to checkpoint inhibitors</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Celine_Hernandez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>16:25 - 16:40 <a href="https://www2.unil.ch/cbg/index.php?title=Sven_Bergmann">Sven Bergmann</a></b><br />
+<i>University of Lausanne & Swiss Institute of Bioinformatics, Switzerland</i><br />
+<strong>Open Community Challenge Reveals Molecular Network Modules with Key Roles in Diseases</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Sven_Bergmann_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>16:40 - 17:00 Round table discussion</b></td></tr>
 </table>
 
 ### Topics
