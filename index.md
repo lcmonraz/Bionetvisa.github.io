@@ -8,7 +8,7 @@ layout: default
 
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
-<p align="center"><b><a href="https://easychair.org/conferences/?conf=bionetvisa2018">Submit your abstract today!</a></b></p>
+<p align="center"><b><a href="https://easychair.org/conferences/?conf=bionetvisa2018">Extended abstract submission deadline: August 10!</a></b></p>
 
 <p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
@@ -41,7 +41,9 @@ layout: default
 <i>EMBL-EBI, Hinxton, UK</i><br />
 <strong>The Reactome Pathway Knowledgebase</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Antonio_Fabregat_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>10:10 - 10:30 Talks selected from abstracts</b></td></tr>
+<tr><td><b>10:10 - 10:30 <a href="https://lunean.com/"><mark>Augustin Luna</mark></a></b><br />
+<i><mark>Dana-Farber Cancer Institute/Harvard University, Boston, United States</mark></i><br />
+<strong><mark>TBA</mark></strong></td></tr>
 </table>
 
 <table>
@@ -150,9 +152,9 @@ comorbidity, drug response prediction using network-based approaches.
 
 We invite to submit your abstract for <b>Talk and/or poster</b> in the topics described above.
 
-#### <font color="#e60000">The submission deadline is July 6th 2018</font>
+#### <font color="#e60000">The submission deadline is August 10th 2018</font>
 
-<p>Submitted abstracts will be reviewed by the scientific program committee and notification of acceptance for <b>talk and/or poster</b> will be provided to the corresponding author by July 10th, 2018.
+<p>Submitted abstracts will be reviewed by the scientific program committee and notification of acceptance for <b>talk and/or poster</b> will be provided to the corresponding author by August 12th, 2018.
 </p>
 
 #### <font color="#e60000">Late abstract submission for posters only is possible till August 9th  2018</font>
