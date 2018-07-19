@@ -43,7 +43,8 @@ layout: default
 <a href="/Abstracts/Bionetvisa2018/Antonio_Fabregat_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
 <tr><td><b><mark>10:10 - 10:30 <a href="https://lunean.com/">Augustin Luna</a></mark></b><br />
 <i><mark>Dana-Farber Cancer Institute/Harvard University, Boston, United States</mark></i><br />
-<strong><mark>TBA</mark></strong></td></tr>
+<strong><mark>Access and Discover Biological Pathway Information from Pathway Commons</mark></strong><br />
+<a href="/Abstracts/Bionetvisa2018/Augustin_Luna_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
 </table>
 
 <table>
