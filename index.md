@@ -89,7 +89,11 @@ layout: default
 <i>The University of Edinburgh, Edinburgh, UK</i><br />
 <strong>Evaluation of network methods for the analysis scRNA-seq data and development of a new KNN-based method based on identified caveats</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Anirudh_Patir_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>14:25 - 15:00 Talks selected from Abstracts</b></td></tr>
+<tr><td><b>14:25 - 14:40 <a href="https://science.curie.fr/members/vassili-soumelis-md-phd/">Vassili Soumelis</a></b><br />
+<i>Institut Curie, Cancer Immunotherapy Center, Paris, France</i><br />
+<strong>Immune cell diversification in response to a single stimulus: from single cells to subsets and back</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Vassili_Soumelis_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>14:40 - 15:00 Talks selected from Abstracts</b></td></tr>
 </table>
 
 <table>
