@@ -8,7 +8,7 @@ layout: default
 
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
-<p align="center"><b><a href="https://easychair.org/conferences/?conf=bionetvisa2018">Extended abstract submission deadline: August 10!</a></b></p>
+<!-- p align="center"><b><a href="https://easychair.org/conferences/?conf=bionetvisa2018">Extended abstract submission deadline: August 10!</a></b></p> -->
 
 <p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
@@ -25,27 +25,24 @@ layout: default
 
 <table>
 <tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1: Signalling and metabolic network resources</font></strong></td></tr>
-<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i><br />
-<strong>Towards a network-centric approach in systems toxicology</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>09:20 - 09:35 <a href="https://sysbio.curie.fr/">Cristobal Monraz Gomez</a></b><br />
-<i>Institut Curie, Paris, France</i><br />
-<strong>Atlas of Cancer Signaling Network: a resource of multi-scale biological maps to study disease mechanisms</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Cristobal_Monraz_Gomez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>09:35 - 09:55 <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b><br />
-<i>Fundación Progreso y Salud, Seville, Spain</i><br />
-<strong>Navigating through disease maps</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Joaquin_Dopazo_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>09:55 - 10:10 <a href="https://www.ebi.ac.uk/about/people/antonio-fabregat-mundo">Antonio Fabregat</a></b><br />
+<tr><td><b>Chair: <a href="https://science.curie.fr/members/vassili-soumelis-md-phd/">Vassili Soumelis</a></b></td></tr>
+<tr><td><b>09:00 - 09:20 <a href="https://www.ebi.ac.uk/about/people/antonio-fabregat-mundo">Antonio Fabregat</a></b><br />
 <i>EMBL-EBI, Hinxton, UK</i><br />
 <strong>The Reactome Pathway Knowledgebase</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Antonio_Fabregat_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>10:10 - 10:30 <a href="https://lunean.com/">Augustin Luna</a></b><br />
+<tr><td><b>09:20 - 09:40 <a href="https://sysbio.curie.fr/">Cristobal Monraz Gomez</a></b><br />
+<i>Institut Curie, Paris, France</i><br />
+<strong>Atlas of Cancer Signaling Network: a resource of multi-scale biological maps to study disease mechanisms</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Cristobal_Monraz_Gomez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
+<tr><td><b>09:40 - 10:05 <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b><br />
+<i>Fundación Progreso y Salud, Seville, Spain</i><br />
+<strong>Navigating through disease maps</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Joaquin_Dopazo_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
+<tr><td><b>10:05 - 10:30 <a href="https://lunean.com/">Augustin Luna</a></b><br />
 <i>Dana-Farber Cancer Institute/Harvard University, Boston, United States</i><br />
 <strong>Access and Discover Biological Pathway Information from Pathway Commons</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Augustin_Luna_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-</table>
+<a href="/Abstracts/Bionetvisa2018/Augustin_Luna_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+</table> 
 
 <table>
  <tr><td><i>10:30 - 11:00 Coffee break</i></td></tr>
@@ -53,23 +50,23 @@ layout: default
 
 <table>
 <tr><td><strong><font color="#e60000">11:00 - 12:30 Session 2: Platforms and methods for analysis of complex networks</font></strong></td></tr>
-<tr><td><b>11:00 - 11:20 <a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></b><br />
+<tr><td><b>Chair: <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b></td></tr>
+<tr><td><b>11:00 - 11:25 <a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></b><br />
 <i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
 <strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:20 - 11:40 <a href="https://www.researchgate.net/profile/Anna_Niarakis">Anna Niarakis</a></b><br />
+<tr><td><b>11:25 - 11:50 <a href="https://www.researchgate.net/profile/Anna_Niarakis">Anna Niarakis</a></b><br />
 <i>GenHotel EA3886, Univ Evry, Université Paris-Saclay, France</i><br />
 <strong>Disease Networks - Reconstruction, Topology, Dynamics. Towards an automated pipeline from static representations to executable disease models</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Anna_Niarakis_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:40 - 11: 55 <a href="https://www.researchgate.net/profile/Josephine_Daub">Josephine Daub</a></b><br />
-<i>Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands</i><br />
-<strong>Genetic interactions in childhood cancer</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Josephine_Daub_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:55 - 12: 10 <a href="https://www.research.ed.ac.uk/portal/en/persons/barbara-shih(0a863546-b83e-4884-90cc-4d796da614d4).html">Barbara Shih</a></b><br />
+<tr><td><b>11:50 - 12: 10 <a href="https://www.research.ed.ac.uk/portal/en/persons/barbara-shih(0a863546-b83e-4884-90cc-4d796da614d4).html">Barbara Shih</a></b><br />
 <i>The Roslin Institute and Royal (Dick) School of Veterinary Studies, the University of Edinburgh, Easter Bush, Midlothian, Edinburgh, UK</i><br />
-<strong>A platform for the network assembly and visual analysis of transcript isoforms from short-read RNA-sequencing data</strong><br />
+<strong>A platform for the network assembly and visual analysis of transcript isoforms from short-read RNA-sequencing data</strong><br/>
 <a href="/Abstracts/Bionetvisa2018/Barbara_Shih_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>12:10 - 12:30 Talks selected from abstracts</b></td></tr>
+<tr><td><b>12:10 - 12:30 <a href="http://www.warrenwk.com/">Warren W Kretzschmar</a></b><br />
+<i>KTH Royal Institute of Technology, Stockholm, Sweden<i><br />
+<strong>Multicolored De Bruijn graph visualization of first, second, and third generation RNA-seq offers deeper insight into transcript isoforms in Picea abies</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Warren_Kretzschmar_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
 
 <table>
@@ -78,22 +75,22 @@ layout: default
 
 <table>
 <tr><th><font color="#e60000">13:30 - 15:00 Session 3: Biological networks in single-cell data analysis</font></th></tr>
-<tr><td><b>13:30 - 13:50 <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b><br />
+<tr><td><b>Chair: <a href="https://lunean.com/">Augustin Luna</a></b></td></tr>
+<tr><td><b>13:30 - 13:55 <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b><a href="http://isac-net.org/"><font color="Red">ISAC Lecture</font></a><br />
 <i>VIB-Ghent University, Gent, Belgium</i><br />
 <strong>Inferring dynamic regulatory networks from single cell data</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>13:50 - 14:10 <a href="https://sysbio.curie.fr/people.html">Andrei Zinovyev</a></b><br />
+<tr><td><b>13:55 - 14:20 <a href="https://sysbio.curie.fr/people.html">Andrei Zinovyev</a></b><br />
 <i>Institute Curie, Paris, France</i><br />
 <strong>Biological networks help unraveling tumoral heterogeneity at single cell level</strong><br /></td></tr> 
-<tr><td><b>14:10 - 14:25 <a href="https://www.researchgate.net/profile/Anirudh_Patir3">Anirudh Patir</a></b><br />
+<tr><td><b>14:20 - 14:40 <a href="https://www.researchgate.net/profile/Anirudh_Patir3">Anirudh Patir</a></b><br />
 <i>The University of Edinburgh, Edinburgh, UK</i><br />
 <strong>Evaluation of network methods for the analysis scRNA-seq data and development of a new KNN-based method based on identified caveats</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Anirudh_Patir_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>14:25 - 14:40 <a href="https://science.curie.fr/members/vassili-soumelis-md-phd/">Vassili Soumelis</a></b><br />
+<tr><td><b>14:40 - 15:00 <a href="https://science.curie.fr/members/vassili-soumelis-md-phd/">Vassili Soumelis</a></b><br />
 <i>Institut Curie, Cancer Immunotherapy Center, Paris, France</i><br />
 <strong>Immune cell diversification in response to a single stimulus: from single cells to subsets and back</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Vassili_Soumelis_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>14:40 - 15:00 Talks selected from Abstracts</b></td></tr>
 </table>
 
 <table>
@@ -102,19 +99,32 @@ layout: default
 
 <table>
 <tr><th><font color="#e60000">15:30 - 17:00 Session 4: Biological network in drug repositioning and disease comorbidity</font></th></tr>
-<tr><td><b>15:30 - 16:10 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> Keynote Lecturer</b><br />
+<tr><td><b>Chair: <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b></td></tr>
+<tr><td><b>15:30 - 16:15 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> Keynote Lecturer</b><br />
 <i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
 <strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
-<tr><td><b>16:10 - 16:25 <a href="http://www.ibens.ens.fr/spip.php?article95">Celine Hernandez</a></b><br />
+<tr><td><b>16:15 - 16:35 <a href="http://www.ibens.ens.fr/spip.php?article95">Celine Hernandez</a></b><br />
 <i>Institut de Biologie de l’Ecole Normale Supérieure, Paris, France</i><br />
 <strong>Dynamical modelling of T cell co-inhibitory pathways to predict anti-tumour responses to checkpoint inhibitors</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Celine_Hernandez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>16:25 - 16:40 <a href="https://www2.unil.ch/cbg/index.php?title=Sven_Bergmann">Sven Bergmann</a></b><br />
+<tr><td><b>16:35 - 16:55 <a href="https://www2.unil.ch/cbg/index.php?title=Sven_Bergmann">Sven Bergmann</a></b><br />
 <i>University of Lausanne & Swiss Institute of Bioinformatics, Switzerland</i><br />
 <strong>Open Community Challenge Reveals Molecular Network Modules with Key Roles in Diseases</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Sven_Bergmann_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>16:40 - 17:00 Round table discussion</b></td></tr>
+<tr><td><b>16:55 - 17:15 Round table discussion</b></td></tr>
 </table>
+
+
+<tr><td><b>11:40 - 11: 55 <a href="https://www.researchgate.net/profile/Josephine_Daub">Josephine Daub</a></b><br />
+<i>Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands</i><br />
+<strong>Genetic interactions in childhood cancer</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Josephine_Daub_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+
+
+<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
+<i>The Systems Biology Institute, Tokyo, Japan</i><br />
+<strong>Towards a network-centric approach in systems toxicology</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 
 ### Topics
 <p>Graphical representation of biological knowledge<br />
@@ -202,4 +212,6 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 </p>
 
 ### Sponsors
-TBA
+  <div>
+      <a href="http://isac-net.org/" target="_blank"><img src="thumbnail_Logo_ISAC_sponsor.jpg" alt="INCa" style="float: left; width:10%; margin-right:10%; margin-bottom: 0.5em;"></a>
+      </div>	
