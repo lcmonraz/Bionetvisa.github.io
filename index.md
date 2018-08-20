@@ -100,7 +100,7 @@ layout: default
 <table>
 <tr><th><font color="#e60000">15:30 - 17:00 Session 4: Biological network in drug repositioning and disease comorbidity</font></th></tr>
 <tr><td><b>Chair: <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b></td></tr>
-<tr><td><b>15:30 - 16:15 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> Keynote Lecturer</b><br />
+<tr><td><b>15:30 - 16:15 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a><font color="red"> Keynote Lecturer</font></b><br />
 <i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
 <strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
 <tr><td><b>16:15 - 16:35 <a href="http://www.ibens.ens.fr/spip.php?article95">Celine Hernandez</a></b><br />
