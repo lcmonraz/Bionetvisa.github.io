@@ -64,7 +64,7 @@ layout: default
 <strong>A platform for the network assembly and visual analysis of transcript isoforms from short-read RNA-sequencing data</strong><br/>
 <a href="/Abstracts/Bionetvisa2018/Barbara_Shih_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>12:10 - 12:30 <a href="http://www.warrenwk.com/">Warren W Kretzschmar</a></b><br />
-<i>KTH Royal Institute of Technology, Stockholm, Sweden<i><br />
+<i>KTH Royal Institute of Technology, Stockholm, Sweden</i><br />
 <strong>Multicolored De Bruijn graph visualization of first, second, and third generation RNA-seq offers deeper insight into transcript isoforms in Picea abies</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Warren_Kretzschmar_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 </table>
