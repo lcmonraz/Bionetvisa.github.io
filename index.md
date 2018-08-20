@@ -114,17 +114,15 @@ layout: default
 <tr><td><b>16:55 - 17:15 Round table discussion</b></td></tr>
 </table>
 
-
+<!--
 <tr><td><b>11:40 - 11: 55 <a href="https://www.researchgate.net/profile/Josephine_Daub">Josephine Daub</a></b><br />
 <i>Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands</i><br />
 <strong>Genetic interactions in childhood cancer</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Josephine_Daub_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-
-
 <tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i><br />
 <strong>Towards a network-centric approach in systems toxicology</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> -->
 
 ### Topics
 <p>Graphical representation of biological knowledge<br />
