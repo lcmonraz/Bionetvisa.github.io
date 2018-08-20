@@ -111,18 +111,11 @@ layout: default
 <i>University of Lausanne & Swiss Institute of Bioinformatics, Switzerland</i><br />
 <strong>Open Community Challenge Reveals Molecular Network Modules with Key Roles in Diseases</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Sven_Bergmann_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>16:55 - 17:15 Round table discussion</b></td></tr>
-</table>
-
-<!--
-<tr><td><b>11:40 - 11: 55 <a href="https://www.researchgate.net/profile/Josephine_Daub">Josephine Daub</a></b><br />
+<tr><td><b>16:55 - 17:15 <a href="https://www.researchgate.net/profile/Josephine_Daub">Josephine Daub</a></b><br />
 <i>Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands</i><br />
 <strong>Genetic interactions in childhood cancer</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Josephine_Daub_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i><br />
-<strong>Towards a network-centric approach in systems toxicology</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> -->
+</table>
 
 ### Topics
 <p>Graphical representation of biological knowledge<br />
@@ -211,5 +204,14 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 
 ### Sponsors
   <div>
-      <a href="http://isac-net.org/" target="_blank"><img src="thumbnail_Logo_ISAC_sponsor.jpg" alt="INCa" style="float: left; width:10%; margin-right:10%; margin-bottom: 0.5em;"></a>
+      <a href="http://isac-net.org/" target="_blank"><img src="thumbnail_Logo_ISAC_sponsor.jpg" alt="INCa" style="float: left; width:100%; margin-right:10%; margin-bottom: 0.5em;"></a>
       </div>	
+      
+<!--
+<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
+<i>The Systems Biology Institute, Tokyo, Japan</i><br />
+<strong>Towards a network-centric approach in systems toxicology</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> -->
+
+</body>
+</html>
