@@ -76,7 +76,7 @@ layout: default
 <table>
 <tr><th><font color="#e60000">13:30 - 15:00 Session 3: Biological networks in single-cell data analysis</font></th></tr>
 <tr><td><b>Chair: <a href="https://lunean.com/">Augustin Luna</a></b></td></tr>
-<tr><td><b>13:30 - 13:55 <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b><a href="http://isac-net.org/"><font color="Red">ISAC Lecture</font></a><br />
+<tr><td><b>13:30 - 13:55 <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b><a href="http://isac-net.org/"><font color="Red"><b> ISAC Lecture</b></font></a><br />
 <i>VIB-Ghent University, Gent, Belgium</i><br />
 <strong>Inferring dynamic regulatory networks from single cell data</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
@@ -153,34 +153,26 @@ Studies on single-cell data, microbiome, metabolomics and other omics data analy
 comorbidity, drug response prediction using network-based approaches.
 </p>
 
-
+<!--
 ### Abstract submission instructions
-
 We invite to submit your abstract for a <b>talk</b> in the topics described above.
-
 #### <font color="#e60000">The submission deadline is August 10th 2018</font>
-
 <p>Submitted abstracts will be reviewed by the scientific program committee and a notification of acceptance for a <b>talk</b> will be provided to the corresponding author by August 12th, 2018.
 </p>
-
 <p><b>Abstract format:</b><br />
 Title<br />
 List of authors (the first author is the presenting author)<br />
 Affiliations<br />
 Abstract text in unstructured format (maximum 300 words)
 </p>
-  
 <p align="justify"><b>Submission process</b><br />
 The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</span></b> relevant topic sessions.
 </p>
-
 <p align="justify">To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
 </p>
-
 <p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
 </p>
-
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b> -->
 
 ### Registration
 
