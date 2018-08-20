@@ -204,7 +204,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 
 ### Sponsors
   <div>
-      <a href="http://isac-net.org/" target="_blank"><img src="thumbnail_Logo_ISAC_sponsor.jpg" alt="INCa" style="float: left; width:100%; margin-right:10%; margin-bottom: 0.5em;"></a>
+      <a href="http://isac-net.org/" target="_blank"><img src="thumbnail_Logo_ISAC_sponsor.jpg" alt="INCa" style="float: left; width:30%; margin-right:10%; margin-bottom: 0.5em;"></a>
       </div>	
       
 <!--
@@ -213,5 +213,4 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <strong>Towards a network-centric approach in systems toxicology</strong><br />
 <a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> -->
 
-</body>
-</html>
+
