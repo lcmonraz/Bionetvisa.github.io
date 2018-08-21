@@ -8,7 +8,7 @@ layout: default
 
 # <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
-<!-- p align="center"><b><a href="https://easychair.org/conferences/?conf=bionetvisa2018">Extended abstract submission deadline: August 10!</a></b></p> -->
+<p align="center"><b>The final programme and the abstract booklet are available<a href="/Abstracts/Bionetvisa2018/BioNetVisA2018_booklet.pdf">here</a></b></p>
 
 <p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
