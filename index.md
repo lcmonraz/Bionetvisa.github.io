@@ -102,7 +102,7 @@ layout: default
 <tr><td><b>Chair: <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b></td></tr>
 <tr><td><b>15:30 - 16:15 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a><font color="red"> Keynote Lecturer</font></b><br />
 <i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
-<strong>Disease networks for the study of the molecular basis of disease comorbidity</strong></td></tr>
+<strong>A patient centred disease comorbidity network</strong></td></tr>
 <tr><td><b>16:15 - 16:35 <a href="http://www.ibens.ens.fr/spip.php?article95">Celine Hernandez</a></b><br />
 <i>Institut de Biologie de l’Ecole Normale Supérieure, Paris, France</i><br />
 <strong>Dynamical modelling of T cell co-inhibitory pathways to predict anti-tumour responses to checkpoint inhibitors</strong><br />
