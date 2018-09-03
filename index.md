@@ -82,7 +82,8 @@ layout: default
 <a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>13:55 - 14:20 <a href="https://sysbio.curie.fr/people.html">Andrei Zinovyev</a></b><br />
 <i>Institute Curie, Paris, France</i><br />
-<strong>Biological networks help unraveling tumoral heterogeneity at single cell level</strong><br /></td></tr> 
+<strong>Biological networks help unraveling tumoral heterogeneity at single cell level</strong><br />
+<a href="/Abstracts/Bionetvisa2018/Andrei_Zinovyev_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
 <tr><td><b>14:20 - 14:40 <a href="https://www.researchgate.net/profile/Anirudh_Patir3">Anirudh Patir</a></b><br />
 <i>The University of Edinburgh, Edinburgh, UK</i><br />
 <strong>Evaluation of network methods for the analysis scRNA-seq data and development of a new KNN-based method based on identified caveats</strong><br />
