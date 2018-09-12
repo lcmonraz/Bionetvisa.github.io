@@ -188,7 +188,6 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <a href="http://www.sbi.jp/">Hioraki Kitano</a> (RIKEN Center for Integrative Medical Sciences, Japan)<br />
 <a href="http://www.kanehisa.jp/en/kanehisa.html">Minoru Kanehisa</a> (Institute for Chemical Research, Kyoto University, Japan)<br />
 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
-<a href="https://lenoverelab.org/">Nicolas Le Novère</a> (Babraham Institute, UK)<br />
 <a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Spanish National Bioinformatics Institute, Madrid, Spain)<br/>
 <a href="https://www.nki.nl/divisions/molecular-carcinogenesis/wessels-l-group/">Lodewyk Wessels</a> (Netherlands Cancer Institute, Amsterdam, Netherlands)<br />
