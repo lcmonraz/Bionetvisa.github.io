@@ -197,7 +197,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 <p>The free-of-charge registration is obligatory for all participants (speakers, poster presenters, audience). <br /> 
 <b><font color="#e60000">The registration deadline is on September 1st 2019</font></b><br />
 <b><a href=""><font size="5" color="#e60000"><center>Register here</center></font></a></b>
-
+</p>
 
 ### Organising committee
 <p><a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
@@ -216,6 +216,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495<br />
 <a href="https://www.oist.jp/access-map">https://www.oist.jp/access-map</a><br />
 Room: 2
+</p>
       
 <!--
 ### Scope
