@@ -160,7 +160,7 @@ Networks for drug repositioning<br />
 <a href="http://www.sbi.jp/members.htm">Hiroaki Imoto</a><br />
 <i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
 <tr><td><b>18:20 - 18:50 </b><br />
-<strong>Talks selected from abstracts</strong><br /></td></tr>
+<strong>Talks selected from abstracts</strong></td></tr>
 <tr><td><b>18:50 - 19:00 </b><br />
 <strong>Round table discussion and closing remarks</strong><br /></td></tr>
 <tr><td><b>19:00 - 20:00 </b><br />
@@ -168,8 +168,10 @@ Networks for drug repositioning<br />
 </table>
  
 ### Abstract submission instructions
-We invite to submit your abstract for a <b>talk</b> in the topics described above.
-#### <font color="#e60000">The submission deadline is on August 1st 2019</font>
+<p>
+We invite to submit your abstract for a <b>talk</b> in the topics described above.<br />
+<font color="#e60000">The submission deadline is on August 1st 2019</font>
+</p>
 <p>Submitted abstracts will be reviewed by the scientific program committee and a notification of acceptance for a <b>talk</b> will be provided to the corresponding author by August 12th, 2018.
 </p>
 <p>Number of poster abstracts will be also selected for flash poster presentations (3 minutes of topic advertisement). 
