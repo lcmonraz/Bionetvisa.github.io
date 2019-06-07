@@ -64,32 +64,24 @@ Networks for drug repositioning<br />
 <tr><td><b>08:50 - 09:00 Opening</b></td></tr>
 <tr><td><b>09:00 - 09:30 <br />
 <strong>Deriving structured representations from natural language to aid scientific discovery: Case studies from reconstructing large pathway maps</strong><br />
- 
-<a href="https://www.ebi.ac.uk/about/people/antonio-fabregat-mundo">Antonio Fabregat</a></b><br />
-<i>EMBL-EBI, Hinxton, UK</i><br />
-
-<a href="/Abstracts/Bionetvisa2018/Antonio_Fabregat_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>09:20 - 09:40 <a href="https://sysbio.curie.fr/">Cristobal Monraz Gomez</a></b><br />
-<i>Institut Curie, Paris, France</i><br />
-<strong>Atlas of Cancer Signaling Network: a resource of multi-scale biological maps to study disease mechanisms</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Cristobal_Monraz_Gomez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>09:40 - 10:05 <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b><br />
-<i>Fundación Progreso y Salud, Seville, Spain</i><br />
-<strong>Navigating through disease maps</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Joaquin_Dopazo_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
-<tr><td><b>10:05 - 10:30 <a href="https://lunean.com/">Augustin Luna</a></b><br />
-<i>Dana-Farber Cancer Institute/Harvard University, Boston, United States</i><br />
-<strong>Access and Discover Biological Pathway Information from Pathway Commons</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Augustin_Luna_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
+<a href="https://suchee.bitbucket.io/">Sucheendra Kumar Palaniappan</a></b><br />
+<i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
+<tr><td><b>09:30 - 10:00 <br />
+<strong>Talks selected from abstracts</strong><br /></td></tr>
 </table> 
-
+  
 <table>
+<tr><td><strong><font color="#e60000">Session 2: AI for network-based drug discovery and repositioning</font></strong></td></tr>
+<tr><td><b>10:00 - 10:30 <br />
+<strong>DPharma Databases Integration coupled with human curation for Drug Development/Repurposing</strong><br /> 
+<a href="/Abstracts/Bionetvisa2019/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+
+<table> 
  <tr><td><i>10:30 - 11:00 Coffee break</i></td></tr>
 </table>
 
-<table>
-<tr><td><strong><font color="#e60000">11:00 - 12:30 Session 2: Platforms and methods for analysis of complex networks</font></strong></td></tr>
-<tr><td><b>Chair: <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b></td></tr>
+
 <tr><td><b>11:00 - 11:25 <a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></b><br />
 <i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
 <strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
