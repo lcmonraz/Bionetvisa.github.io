@@ -174,8 +174,6 @@ We invite to submit your abstract for a <b>talk</b> in the topics described abov
 </p>
 <p>Number of poster abstracts will be also selected for flash poster presentations (3 minutes of topic advertisement). 
 </p>
-
-
 <p><b>Abstract format:</b><br />
 Title<br />
 List of authors (the first author is the presenting author)<br />
@@ -187,64 +185,56 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 </p>
 <p align="justify">To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
 </p>
-<p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
+<p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2019 has received the abstract.
 </p>
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+<b><a href=""><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+
+### Registration
+
+<p>The free-of-charge registration is obligatory for all participants (speakers, poster presenters, audience). <br /> 
+<b><font color="#e60000">The registration deadline is on September 1st 2019</font></b><br />
+<b><a href=""><font size="5" color="#e60000"><center>Register here</center></font></a></b>
 
 
+### Organising committee
+<p><a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
+<a href="http://www.sbi.jp/">Hioraki Kitano</a> (RIKEN Center for Integrative Medical Sciences, Japan)<br />
+<a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Spanish National Bioinformatics Institute, Madrid, Spain)<br/>
+<a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
+<a href="http://sysbio.curie.fr/">Inna Kuperstein</a> (Institut Curie, France)<br />
+<a href="http://sysbio.curie.fr/">Luis Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
+<a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
+<a href="http://www.ihes.fr/~zinovyev/">Andrei Zinovyev</a> (Institut Curie, France)<br />
+<a href="https://www.prinsesmaximacentrum.com/">Patrick Kemmeren</a> (Princess Maxima Center for Pediatric Oncology, Utrecht, Netherlands)
+</p>
+
+### Venue 
+<p> Okinawa Insitute of Science and Technology Graduate University, Okinawa, Japan<br />
+1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa, Japan 904-0495<br />
+<a href="https://www.oist.jp/access-map">https://www.oist.jp/access-map</a><br />
+Room: 2
+      
+<!--
 ### Scope
 <p align="justify"><b>Development, curation and maintenance of biological network resources</b><br />
 Data models from interaction to pathway and network, available tools for the integration of new discoveries into existing signalling diagrams. Discussion of curation models from map manager-oriented to community-based update using web-tools and forums.
 </p>
-
 <p align="justify"><b>Cell signalling knowledge representation paradigms</b><br />
 From interaction to single pathways representation to comprehensive signalling networks: discussion of modes of biological processes representation; granularity, coverage, sources of information, annotation modes, cross-citations between different signalling networks resources, etc. Standard for graphical representation and data formats.
 </p>
-
 <p align="justify"><b>Visualization of data through networks</b><br />
 Paradigms of visualization of different types of high-throughput data on a network map. Data integration with a map. Methods compatibility with different paradigms of signalling networks reconstruction in various databases and resources.
 </p>
-
 <p align="justify"><b>Analytical tools for network biology</b><br />
 Tools for network analysis and manipulation, network modeling, network-based statistics. Studying network activation and inhibition, feedbacks and compensations, synthetic interactions.
 </p>
-
 <p align="justify"><b>Applications of networks in multi-omics data analysis in biomedical research and in clinics</b><br />
 Studies on single-cell data, microbiome, metabolomics and other omics data analysis, disease
 comorbidity, drug response prediction using network-based approaches.
 </p>
-
-
-
-
-### Registration
-
-<p>The registration has to be performed via the <b><a href="http://eccb18.org/registration/"><font color="#e60000">ECCB website</font></a></b>
-</p>
-
-### Organising committee
-<p><a href="http://sysbio.curie.fr/">Inna Kuperstein</a> (Institut Curie, France)<br />
-<a href="https://science.curie.fr/recherche/biologie-interactive-des-tumeurs-immunologie-environnement/c/">Emmanuel Barillot</a> (Institut Curie, France)<br />
-<a href="http://www.ihes.fr/~zinovyev/">Andrei Zinovyev</a> (Institut Curie, France)<br />
-<a href="http://sysbio.curie.fr/">Luis Cristobal Monraz Gomez</a> (Institut Curie, France)<br />
-<a href="http://www.sbi.jp/">Hioraki Kitano</a> (RIKEN Center for Integrative Medical Sciences, Japan)<br />
-<a href="http://www.kanehisa.jp/en/kanehisa.html">Minoru Kanehisa</a> (Institute for Chemical Research, Kyoto University, Japan)<br />
-<a href="http://www.sbi.jp/members.htm">Samik Ghosh</a> (Systems Biology Institute, Tokyo, Japan)<br />
-<a href="https://reactome.org/">Robin Haw</a> (Ontario Institute for Cancer Research, Canada)<br />
-<a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a> (Spanish National Bioinformatics Institute, Madrid, Spain)<br/>
-<a href="https://www.nki.nl/divisions/molecular-carcinogenesis/wessels-l-group/">Lodewyk Wessels</a> (Netherlands Cancer Institute, Amsterdam, Netherlands)<br />
-  <a href="https://www.prinsesmaximacentrum.com/">Patrick Kemmeren</a> (Princess Maxima Center for Pediatric Oncology, Utrecht, Netherlands)
-</p>
-
 ### Sponsors
   <div>
       <a href="http://isac-net.org/" target="_blank"><img src="thumbnail_Logo_ISAC_sponsor.jpg" alt="INCa" style="float: left; width:30%; margin-right:10%; margin-bottom: 0.5em;"></a>
-      </div>	
-      
-<!--
-<tr><td><b>09:00 - 09:20 <a href="http://www.sbi.jp/members.htm">Samik Ghosh</a></b><br />
-<i>The Systems Biology Institute, Tokyo, Japan</i><br />
-<strong>Towards a network-centric approach in systems toxicology</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Samik_Ghosh_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> -->
+      </div>	-->
 
 
