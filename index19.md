@@ -62,106 +62,135 @@ Networks for drug repositioning<br />
 <table>
 <tr><td><strong><font color="#e60000">Session 1: Pathway resources and maps construction in the AI era</font></strong></td></tr>
 <tr><td><b>08:50 - 09:00 Opening</b></td></tr>
-<tr><td><b>09:00 - 09:30 <br />
+<tr><td><b>09:00 - 09:30 </b><br />
 <strong>Deriving structured representations from natural language to aid scientific discovery: Case studies from reconstructing large pathway maps</strong><br />
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://suchee.bitbucket.io/">Sucheendra Kumar Palaniappan</a></b><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
-<tr><td><b>09:30 - 10:00 <br />
+<tr><td><b>09:30 - 10:00 </b><br />
 <strong>Talks selected from abstracts</strong><br /></td></tr>
 </table> 
+
   
 <table>
 <tr><td><strong><font color="#e60000">Session 2: AI for network-based drug discovery and repositioning</font></strong></td></tr>
-<tr><td><b>10:00 - 10:30 <br />
-<strong>DPharma Databases Integration coupled with human curation for Drug Development/Repurposing</strong><br /> 
-<a href="/Abstracts/Bionetvisa2019/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<tr><td><b>10:00 - 10:30 </b><br />
+<strong>Pharma Databases Integration coupled with human curation for Drug Development/Repurposing</strong><br /> 
+<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Junhyung_PARK.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="http://3bigs.com/en/about-us-eng/">Junhyung Park</a></b><br />
+<i>3BIGS CO., LTD. Suwon, Republic of Korea</i></td></tr>
+<tr><td><b>10:30 - 11:00 </b><br />
+<strong>Network-based and data-driven drug discovery by machine learning</strong><br /> 
+<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Yoshihiro_YAMANISHI.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="http://labo.bio.kyutech.ac.jp/~yamani/index.html">Yoshihiro Yamanishi</a></b><br />
+<i>Kyushu Institute of Technology, Fukuoka, Japan</i></td></tr>
+ 
+<table> 
+<tr><td><i>11:00 - 11:20 Break and posters</i></td></tr>
+</table>
 
 <table> 
- <tr><td><i>10:30 - 11:00 Coffee break</i></td></tr>
-</table>
-
-
-<tr><td><b>11:00 - 11:25 <a href="http://pavlopouloslab.info">Georgios Pavlopoulos</a></b><br />
-<i>Biomedical Sciences Research Center "Alexander Fleming", Athens, Greece</i><br />
-<strong>Using HipMCL, a high-performance parallel implementation of the Markov clustering algorithm, to understand microbial diversity</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Georgios_Pavlopoulos_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:25 - 11:50 <a href="https://www.researchgate.net/profile/Anna_Niarakis">Anna Niarakis</a></b><br />
-<i>GenHotel EA3886, Univ Evry, Université Paris-Saclay, France</i><br />
-<strong>Disease Networks - Reconstruction, Topology, Dynamics. Towards an automated pipeline from static representations to executable disease models</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Anna_Niarakis_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>11:50 - 12: 10 <a href="https://www.research.ed.ac.uk/portal/en/persons/barbara-shih(0a863546-b83e-4884-90cc-4d796da614d4).html">Barbara Shih</a></b><br />
-<i>The Roslin Institute and Royal (Dick) School of Veterinary Studies, the University of Edinburgh, Easter Bush, Midlothian, Edinburgh, UK</i><br />
-<strong>A platform for the network assembly and visual analysis of transcript isoforms from short-read RNA-sequencing data</strong><br/>
-<a href="/Abstracts/Bionetvisa2018/Barbara_Shih_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>12:10 - 12:30 <a href="http://www.warrenwk.com/">Warren W Kretzschmar</a></b><br />
-<i>KTH Royal Institute of Technology, Stockholm, Sweden</i><br />
-<strong>Multicolored De Bruijn graph visualization of first, second, and third generation RNA-seq offers deeper insight into transcript isoforms in Picea abies</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Warren_Kretzschmar_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><b>11:20 - 11:50</b><br /> 
+<strong>Network-based knowledge for drug discovery: Application in pharmaceutical industry</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Yoshihiro Yamanishi</a></b><br />
+<i>Takeda Pharmaceuticals, Tokyo, Japan</i></td></tr>
 </table>
 
 <table>
-<tr><td><i>12:30 - 13:30 Lunch</i></td></tr>
+<tr><td><strong><font color="#e60000">Session 3: Cancer evolution and medical applications of systems biology</font></strong></td></tr>
+<tr><td><b>11:50 - 12:20 </b><br />
+<strong>The Reconstruction of Cancer Phylogenies</strong><br /> 
+<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_David_WEDGE.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="https://www.bdi.ox.ac.uk/Team/david-wedge">David Wedge</a></b><br />
+<i>Big Data Institute, University of Oxford, UK</i></td></tr>
+<tr><td><b>12:20 - 12:50 </b><br />
+<strong>Challenges to integrating systems biology and artificial intelligence in medical applications</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="https://www.researchgate.net/profile/Yoshiyuki_Asai">Yoshiyuki Asai</a></b><br />
+<i>Yamaguchi University, Yamaguchi, Japan</i></td></tr>
+<tr><td><b>12:50 - 13:20 </b><br />
+<strong>Towards Data-Integrated Medicine</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="https://www.bsc.es/przulj-natasa">Natasa Przulj</a></b><br />
+<i>Barcelona Supercomputing Center, Barcelona, Spain</i></td></tr>
+<tr><td><b>13:20 - 13:50 </b><br />
+<strong>Talks selected from abstracts</strong></td></tr>
 </table>
 
 <table>
-<tr><th><font color="#e60000">13:30 - 15:00 Session 3: Biological networks in single-cell data analysis</font></th></tr>
-<tr><td><b>Chair: <a href="https://lunean.com/">Augustin Luna</a></b></td></tr>
-<tr><td><b>13:30 - 13:55 <a href="http://www.vib.be/en/research/scientists/Pages/Yvan-Saeys-Lab.aspx">Yvan Saeys</a></b><a href="http://isac-net.org/"><font color="Red"><b> ISAC Lecture</b></font></a><br />
-<i>VIB-Ghent University, Gent, Belgium</i><br />
-<strong>Inferring dynamic regulatory networks from single cell data</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Yvan_Sayes_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>13:55 - 14:20 <a href="https://sysbio.curie.fr/people.html">Andrei Zinovyev</a></b><br />
-<i>Institute Curie, Paris, France</i><br />
-<strong>Biological networks help unraveling tumoral heterogeneity at single cell level</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Andrei_Zinovyev_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>14:20 - 14:40 <a href="https://www.researchgate.net/profile/Anirudh_Patir3">Anirudh Patir</a></b><br />
-<i>The University of Edinburgh, Edinburgh, UK</i><br />
-<strong>Evaluation of network methods for the analysis scRNA-seq data and development of a new KNN-based method based on identified caveats</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Anirudh_Patir_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>14:40 - 15:00 <a href="https://science.curie.fr/members/vassili-soumelis-md-phd/">Vassili Soumelis</a></b><br />
-<i>Institut Curie, Cancer Immunotherapy Center, Paris, France</i><br />
-<strong>Immune cell diversification in response to a single stimulus: from single cells to subsets and back</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Vassili_Soumelis_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><td><i>13:50 - 14:50 Lunch</i></td></tr>
 </table>
 
 <table>
-<tr><td><i>15:00 - 15:30 Coffee break</i></td></tr>
+<tr><th><font color="#e60000">Session 4: Big data: integration, visualization interpretation</font></th></tr>
+<tr><td><b>15:00 - 15:30 </b><br />
+<strong>Multi-omics and medical data integration and visualization</strong><br /> 
+<a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Reinhard_SCHNEIDER.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="https://wwwfr.uni.lu/lcsb/people/reinhard_schneider">Reinhard Schneider</a></b><br />
+<i>Luxembourg Centre for Systems Biomedicine, Luxembourg</i></td></tr>
+<tr><td><b>15:30 - 16:00 </b><br />
+<strong>Joint analysis of large single-cell dataset collections</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a></b><br />
+<i>Harvard medical school, Boston, USA</i></td></tr>
+<tr><td><b>16:00 - 16:30 </b><br />
+<strong>Networks and trajectories in cancer</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="https://science.curie.fr/members/emmanuel-barillot-phd/">Emmanuel Barillot</a></b><br />
+<i>Institut Curie, Paris, France</i></td></tr>
+<tr><td><b>16:30 - 17:00 </b><br />
+<strong>Talks selected from abstracts</strong></td></tr>
+</table>
+
+<table> 
+<tr><td><i>17:00 - 17:20 Break and posters</i></td></tr>
 </table>
 
 <table>
-<tr><th><font color="#e60000">15:30 - 17:00 Session 4: Biological network in drug repositioning and disease comorbidity</font></th></tr>
-<tr><td><b>Chair: <a href="http://peoplewiki.clinbioinfosspa.es/jdopazo/">Joaquin Dopazo</a></b></td></tr>
-<tr><td><b>15:30 - 16:15 <a href="https://www.bsc.es/valencia-alfonso">Alfonso Valencia</a><font color="red"> Keynote Lecturer</font></b><br />
-<i>Barcelona Supercomputing Center, Barcelona, Spain</i><br />
-<strong>A patient centred disease comorbidity network</strong></td></tr>
-<tr><td><b>16:15 - 16:35 <a href="http://www.ibens.ens.fr/spip.php?article95">Celine Hernandez</a></b><br />
-<i>Institut de Biologie de l’Ecole Normale Supérieure, Paris, France</i><br />
-<strong>Dynamical modelling of T cell co-inhibitory pathways to predict anti-tumour responses to checkpoint inhibitors</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Celine_Hernandez_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>16:35 - 16:55 <a href="https://www2.unil.ch/cbg/index.php?title=Sven_Bergmann">Sven Bergmann</a></b><br />
-<i>University of Lausanne & Swiss Institute of Bioinformatics, Switzerland</i><br />
-<strong>Open Community Challenge Reveals Molecular Network Modules with Key Roles in Diseases</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Sven_Bergmann_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
-<tr><td><b>16:55 - 17:15 <a href="https://www.researchgate.net/profile/Josephine_Daub">Josephine Daub</a></b><br />
-<i>Princess Máxima Center for Pediatric Oncology, Utrecht, The Netherlands</i><br />
-<strong>Genetic interactions in childhood cancer</strong><br />
-<a href="/Abstracts/Bionetvisa2018/Josephine_Daub_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr> 
+<tr><th><font color="#e60000">Session 5: Modelling of biological and disease networks</font></th></tr>
+<tr><td><b>17:20 - 17:50 </b><br />
+<strong>Towards Predictive Biology: Applications and challenges of mechanistic modeling and machine learning</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="http://www.sbi.jp/members.htm">Ayako Yachie</a></b><br />
+<i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
+<tr><td><b>17:50 - 18:20 </b><br />
+<strong>A universal network mechanism governing heterogenous ErbB signaling dynamics</strong><br /> 
+<a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
+<a href="http://www.sbi.jp/members.htm">Hiroaki Imoto</a></b><br />
+<i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
+<tr><td><b>18:20 - 18:50 </b><br />
+<strong>Talks selected from abstracts</strong><br /></td></tr>
+<tr><td><b>18:50 - 19:00 </b><br />
+<strong>Round table discussion and closing remarks</strong><br /></td></tr>
+<tr><td><b>19:00 - 20:00 </b><br />
+<strong>Poster session</strong><br /></td></tr>
 </table>
-
-### Topics
-<p>Graphical representation of biological knowledge<br />
-Pathway and network resources<br />
-Networks annotation and curation<br />
-Multi-omics data visualization and analysis in the context of networks<br />
-Network modelling<br />
-Basic research and clinical application of networks<br />
-Microbiome and networks<br />
-Networks for single-cell data interpretation<br />
-Metabolomics and networks<br />
-Networks applications for drug repositioning<br />
-Networks in disease comorbidity studies<br />
+ 
+### Abstract submission instructions
+We invite to submit your abstract for a <b>talk</b> in the topics described above.
+#### <font color="#e60000">The submission deadline is on August 1st 2019</font>
+<p>Submitted abstracts will be reviewed by the scientific program committee and a notification of acceptance for a <b>talk</b> will be provided to the corresponding author by August 12th, 2018.
 </p>
+<p>Number of poster abstracts will be also selected for flash poster presentations (3 minutes of topic advertisement). 
+</p>
+
+
+<p><b>Abstract format:</b><br />
+Title<br />
+List of authors (the first author is the presenting author)<br />
+Affiliations<br />
+Abstract text in unstructured format (maximum 300 words)
+</p>
+<p align="justify"><b>Submission process</b><br />
+The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</span></b> relevant topic sessions.
+</p>
+<p align="justify">To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
+</p>
+<p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
+</p>
+<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+
 
 ### Scope
 <p align="justify"><b>Development, curation and maintenance of biological network resources</b><br />
@@ -185,26 +214,8 @@ Studies on single-cell data, microbiome, metabolomics and other omics data analy
 comorbidity, drug response prediction using network-based approaches.
 </p>
 
-<!--
-### Abstract submission instructions
-We invite to submit your abstract for a <b>talk</b> in the topics described above.
-#### <font color="#e60000">The submission deadline is August 10th 2018</font>
-<p>Submitted abstracts will be reviewed by the scientific program committee and a notification of acceptance for a <b>talk</b> will be provided to the corresponding author by August 12th, 2018.
-</p>
-<p><b>Abstract format:</b><br />
-Title<br />
-List of authors (the first author is the presenting author)<br />
-Affiliations<br />
-Abstract text in unstructured format (maximum 300 words)
-</p>
-<p align="justify"><b>Submission process</b><br />
-The link below will take you to the EasyChair submission page. Once logged, click on the 'Submission' tab to start the submission process. Enter authors, title without HTML elements, abstract up to 300 words, keywords, and select up to <b><span style="text-decoration: underline;">three</span></b> relevant topic sessions.
-</p>
-<p align="justify">To assist us with creating the abstract booklet, please upload the same abstract as a word document in the section called "Upload Paper" using this <b><a href="/AbstractTemplate_BioNetVisA.docx"><span style="text-decoration: underline;"><font color="#e60000">TEMPLATE</font></span></a></b>
-</p>
-<p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2014 has received the abstract.
-</p>
-<b><a href="https://easychair.org/conferences/?conf=bionetvisa2018"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b> -->
+
+
 
 ### Registration
 
