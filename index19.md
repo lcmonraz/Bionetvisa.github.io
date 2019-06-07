@@ -1,6 +1,5 @@
 ---
 title: BioNetVisA workshop 2018
-layout: default
 ---
 
 <center><a href="/"><img id="ICSB19" src="/ISCB2019_logo.jpg" style="width:160px;"/></a></center>
@@ -28,15 +27,47 @@ layout: default
 </p>
 
 ### Key Themes
+<p>Graphical representation of biological knowledge<br />
+Molecular interaction and pathway databases<br />
+Comprehensive signalling networks<br />
+Networks annotation and curation<br />
+High-throughput data visualization, analysis and interpretation in the context of networks<br />
+Multi-scale networks (genome, epigenome, transcriptome, proteome, metabolome...)<br />
+Network modelling<br />
+Machine learning/Artificial Intelligence approaches in network biology <br />
+Basic research and clinical application of networks<br />
+Microbiome and networks<br />
+Single-cell data and network inference<br />
+Metabolomics and networks<br />
+Human microbiome<br />
+Networks for drug repositioning<br />
+</p>
 
-### BioNetVisA 2018 programme
+### Important dates
+<table style="width 100%">
+<tr><td><b>August 1</b></td>
+  <td>Abstract submission deadline<b><i><font color="#e60000">Submit now!</font></i></b></td></tr>
+<tr><td><b>August 7</b></td>
+  <td>Abstract acceptance notification<b></td></tr>
+<tr><td><b>August 20</b></td>
+  <td>Workshop's final program announcements</td></tr>
+<tr><td><b>September 1</b></td>
+  <td>Workshop's registration deadline (no fee)</td></tr>
+<tr><td><b>October 31</b></td>
+  <td>BioNetVisA 2019</td></tr>
+</table>
+
+### Preliminary program
 
 <table>
-<tr><td><strong><font color="#e60000">09:00 - 10:30 Session 1: Signalling and metabolic network resources</font></strong></td></tr>
-<tr><td><b>Chair: <a href="https://science.curie.fr/members/vassili-soumelis-md-phd/">Vassili Soumelis</a></b></td></tr>
-<tr><td><b>09:00 - 09:20 <a href="https://www.ebi.ac.uk/about/people/antonio-fabregat-mundo">Antonio Fabregat</a></b><br />
+<tr><td><strong><font color="#e60000">Session 1: Pathway resources and maps construction in the AI era</font></strong></td></tr>
+<tr><td><b>08:50 - 09:00 Opening</b></td></tr>
+<tr><td><b>09:00 - 09:30 <br />
+<strong>Deriving structured representations from natural language to aid scientific discovery: Case studies from reconstructing large pathway maps</strong><br />
+ 
+<a href="https://www.ebi.ac.uk/about/people/antonio-fabregat-mundo">Antonio Fabregat</a></b><br />
 <i>EMBL-EBI, Hinxton, UK</i><br />
-<strong>The Reactome Pathway Knowledgebase</strong><br />
+
 <a href="/Abstracts/Bionetvisa2018/Antonio_Fabregat_BioNetVisA2018.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a></td></tr>
 <tr><td><b>09:20 - 09:40 <a href="https://sysbio.curie.fr/">Cristobal Monraz Gomez</a></b><br />
 <i>Institut Curie, Paris, France</i><br />
