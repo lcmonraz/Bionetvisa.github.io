@@ -48,7 +48,7 @@ Networks for drug repositioning<br />
 <tr><td><b>August 1</b></td>
   <td>Abstract submission deadline<b><i><font color="#e60000">Submit now!</font></i></b></td></tr>
 <tr><td><b>August 7</b></td>
-  <td>Abstract acceptance notification<b></td></tr>
+  <td>Abstract acceptance notification</td></tr>
 <tr><td><b>August 20</b></td>
   <td>Workshop's final program announcements</td></tr>
 <tr><td><b>September 1</b></td>
@@ -65,7 +65,7 @@ Networks for drug repositioning<br />
 <tr><td><b>09:00 - 09:30 </b><br />
 <strong>Deriving structured representations from natural language to aid scientific discovery: Case studies from reconstructing large pathway maps</strong><br />
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="https://suchee.bitbucket.io/">Sucheendra Kumar Palaniappan</a></b><br />
+<a href="https://suchee.bitbucket.io/">Sucheendra Kumar Palaniappan</a><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
 <tr><td><b>09:30 - 10:00 </b><br />
 <strong>Talks selected from abstracts</strong><br /></td></tr>
@@ -77,12 +77,12 @@ Networks for drug repositioning<br />
 <tr><td><b>10:00 - 10:30 </b><br />
 <strong>Pharma Databases Integration coupled with human curation for Drug Development/Repurposing</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Junhyung_PARK.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="http://3bigs.com/en/about-us-eng/">Junhyung Park</a></b><br />
+<a href="http://3bigs.com/en/about-us-eng/">Junhyung Park</a><br />
 <i>3BIGS CO., LTD. Suwon, Republic of Korea</i></td></tr>
 <tr><td><b>10:30 - 11:00 </b><br />
 <strong>Network-based and data-driven drug discovery by machine learning</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Yoshihiro_YAMANISHI.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="http://labo.bio.kyutech.ac.jp/~yamani/index.html">Yoshihiro Yamanishi</a></b><br />
+<a href="http://labo.bio.kyutech.ac.jp/~yamani/index.html">Yoshihiro Yamanishi</a><br />
 <i>Kyushu Institute of Technology, Fukuoka, Japan</i></td></tr>
  
 <table> 
@@ -93,7 +93,7 @@ Networks for drug repositioning<br />
 <tr><td><b>11:20 - 11:50</b><br /> 
 <strong>Network-based knowledge for drug discovery: Application in pharmaceutical industry</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Yoshihiro Yamanishi</a></b><br />
+<a href="https://www.linkedin.com/in/tatsuya-ando-4a14a3138/">Tatsuya Andou</a><br />
 <i>Takeda Pharmaceuticals, Tokyo, Japan</i></td></tr>
 </table>
 
@@ -102,17 +102,17 @@ Networks for drug repositioning<br />
 <tr><td><b>11:50 - 12:20 </b><br />
 <strong>The Reconstruction of Cancer Phylogenies</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_David_WEDGE.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="https://www.bdi.ox.ac.uk/Team/david-wedge">David Wedge</a></b><br />
+<a href="https://www.bdi.ox.ac.uk/Team/david-wedge">David Wedge</a><br />
 <i>Big Data Institute, University of Oxford, UK</i></td></tr>
 <tr><td><b>12:20 - 12:50 </b><br />
 <strong>Challenges to integrating systems biology and artificial intelligence in medical applications</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="https://www.researchgate.net/profile/Yoshiyuki_Asai">Yoshiyuki Asai</a></b><br />
+<a href="https://www.researchgate.net/profile/Yoshiyuki_Asai">Yoshiyuki Asai</a><br />
 <i>Yamaguchi University, Yamaguchi, Japan</i></td></tr>
 <tr><td><b>12:50 - 13:20 </b><br />
 <strong>Towards Data-Integrated Medicine</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="https://www.bsc.es/przulj-natasa">Natasa Przulj</a></b><br />
+<a href="https://www.bsc.es/przulj-natasa">Natasa Przulj</a><br />
 <i>Barcelona Supercomputing Center, Barcelona, Spain</i></td></tr>
 <tr><td><b>13:20 - 13:50 </b><br />
 <strong>Talks selected from abstracts</strong></td></tr>
@@ -127,17 +127,17 @@ Networks for drug repositioning<br />
 <tr><td><b>15:00 - 15:30 </b><br />
 <strong>Multi-omics and medical data integration and visualization</strong><br /> 
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Reinhard_SCHNEIDER.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="https://wwwfr.uni.lu/lcsb/people/reinhard_schneider">Reinhard Schneider</a></b><br />
+<a href="https://wwwfr.uni.lu/lcsb/people/reinhard_schneider">Reinhard Schneider</a><br />
 <i>Luxembourg Centre for Systems Biomedicine, Luxembourg</i></td></tr>
 <tr><td><b>15:30 - 16:00 </b><br />
 <strong>Joint analysis of large single-cell dataset collections</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a></b><br />
+<a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a><br />
 <i>Harvard medical school, Boston, USA</i></td></tr>
 <tr><td><b>16:00 - 16:30 </b><br />
 <strong>Networks and trajectories in cancer</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="https://science.curie.fr/members/emmanuel-barillot-phd/">Emmanuel Barillot</a></b><br />
+<a href="https://science.curie.fr/members/emmanuel-barillot-phd/">Emmanuel Barillot</a><br />
 <i>Institut Curie, Paris, France</i></td></tr>
 <tr><td><b>16:30 - 17:00 </b><br />
 <strong>Talks selected from abstracts</strong></td></tr>
@@ -152,12 +152,12 @@ Networks for drug repositioning<br />
 <tr><td><b>17:20 - 17:50 </b><br />
 <strong>Towards Predictive Biology: Applications and challenges of mechanistic modeling and machine learning</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="http://www.sbi.jp/members.htm">Ayako Yachie</a></b><br />
+<a href="http://www.sbi.jp/members.htm">Ayako Yachie</a><br />
 <i>The Systems Biology Institute, Tokyo, Japan</i></td></tr>
 <tr><td><b>17:50 - 18:20 </b><br />
 <strong>A universal network mechanism governing heterogenous ErbB signaling dynamics</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a>
-<a href="http://www.sbi.jp/members.htm">Hiroaki Imoto</a></b><br />
+<a href="http://www.sbi.jp/members.htm">Hiroaki Imoto</a><br />
 <i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
 <tr><td><b>18:20 - 18:50 </b><br />
 <strong>Talks selected from abstracts</strong><br /></td></tr>
