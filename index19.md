@@ -3,13 +3,14 @@ title: BioNetVisA workshop 2018
 layout: default
 ---
 
-<center><a href="/"><img id="ECCB18" src="/Logo_ECCB2018.gif" style="width:160px;"/></a></center>
+<center><a href="/"><img id="ICSB19" src="/ISCB2019_logo.jpg" style="width:160px;"/></a></center>
 <p> </p>
 
-# <center><font color="#e60000">BioNetVisA 2018 workshop</font></center>
+# <center><font color="#e60000">BioNetVisA 2019 workshop</font></center>
 ## <center><font color="#e60000">From biological network reconstruction to data visualization and analysis in molecular biology and medicine</font></center>
+<!--
 <p align="center"><b><font color="#e60000">The final programme and the abstract booklet are available</font><a href="/Abstracts/Bionetvisa2018/BioNetVisA2018_booklet.pdf"> here</a></b></p>
-<p align="center"><b><font color="#e60000">The workshop presentations are available</font><a href="https://drive.google.com/open?id=1cLa4gSUAeogCNUi1yAFzlidHbOrxakxh"> here</a></b></p>
+<p align="center"><b><font color="#e60000">The workshop presentations are available</font><a href="https://drive.google.com/open?id=1cLa4gSUAeogCNUi1yAFzlidHbOrxakxh"> here</a></b></p> -->
 
 <p align="justify"><b>BioNetVisA</b> workshop brings together different actors of network biology from database providers, networks creators, computational biologists, biotech companies involved in data analysis and modeling to experimental biologists, clinicians that use systems biology approaches. The participants are exposed to the different paradigms of network biology and the latest achievements in the field.
 </p>
@@ -21,6 +22,12 @@ layout: default
 
 <p align="justify">The <b>BioNetVisA</b> workshop aims at identifying bottlenecks and proposing short- and long-term objectives for the community as discussing questions about accessibility of available tools for wide range of user in every-day standalone application in biological and clinical labs. In addition, the possibilities for collective efforts by academic researchers, clinicians, biotech companies and future development directions in the field will be discussed during the round table panel.
 </p>
+
+### Audience
+<p align="justify">The workshop targets computational systems biologists, molecular and cell biologists, clinicians and a wide audience interested in update and discussion around current status of network biology, pathway databases, and related analysis tools, including visualization, statistical analysis and dynamic modelling. No computational background is required to attend the workshop.
+</p>
+
+### Key Themes
 
 ### BioNetVisA 2018 programme
 
