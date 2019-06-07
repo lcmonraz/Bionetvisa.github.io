@@ -84,6 +84,7 @@ Networks for drug repositioning<br />
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Yoshihiro_YAMANISHI.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://labo.bio.kyutech.ac.jp/~yamani/index.html">Yoshihiro Yamanishi</a><br />
 <i>Kyushu Institute of Technology, Fukuoka, Japan</i></td></tr>
+</table>
  
 <table> 
 <tr><td><i>11:00 - 11:20 Break and posters</i></td></tr>
