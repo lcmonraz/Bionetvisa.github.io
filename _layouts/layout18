@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+      <a href="/"><img id="logo" src="/thumbnail_Logo_BioNetVisA.jpg" style="width:200px;"/></a>
+      
+   
+      <br />
+      <br />
+       <p><strong>31 October 2019</strong><br />
+       <a href="https://www.snfcc.org/default.aspx">Stavros Niarchos Foundation Cultural Center (SNFCC)</a><br />
+       Athens, Greece<br />
+       <a href="http://eccb18.org/workshop-2/">Workshop website in ECCB 2018</a>
+       </p>
+      <br />
+        
+        <p style="line-height:6px;"><a href="/"><font color="#e60000"><b>Home</b></font></a></p>
+        <p style="line-height:6px;"><a href="/venue"><font color="#e60000"><b>Venue</b></font></a></p>
+        <p style="line-height:6px;"><a href="/previous"><font color="#e60000"><b>Previous Editions</b></font></a></p>
+        <p style="line-height:6px;"><a href="/downloads"><font color="#e60000"><b>Downloads</b></font></a></p>
+        <p style="line-height:6px;"><a href="/contact"><font color="#e60000"><b>Contact</b></font></a></p>
+        
+      </header>
+      
+  <section>
+
+      {{ content }}
+
+      </section>
+      
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
+  </body>
+</html>
+
+        <!--p style="line-height:6px;"><a href="/importantdates"><font color="#e60000"><b>Important Dates</b></font></a></p> -->
