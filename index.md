@@ -128,7 +128,7 @@ Networks for drug repositioning<br />
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Reinhard_SCHNEIDER.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://wwwfr.uni.lu/lcsb/people/reinhard_schneider">Reinhard Schneider</a><br />
 <i>Luxembourg Centre for Systems Biomedicine, Luxembourg</i></td></tr>
-<tr><td><b>14:25 - 15:10</b><i><font color="#e60000">Keynote</font></i></b><br />
+<tr><td><b>14:25 - 15:10 <i><font color="#e60000">Keynote</font></i></b><br />
 <strong>Joint analysis of large single-cell dataset collections</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a><br />
