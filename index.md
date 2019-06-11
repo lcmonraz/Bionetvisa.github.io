@@ -158,7 +158,7 @@ Networks for drug repositioning<br />
 <tr><td><b>17:50 - 18:20 </b><br />
 <strong>A universal network mechanism governing heterogenous ErbB signaling dynamics</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
-<a href="http://www.sbi.jp/members.htm">Hiroaki Imoto</a><br />
+<a href="http://www.protein.osaka-u.ac.jp/cell_systems/people.html">Hiroaki Imoto</a><br />
 <i>Institute for Protein Research, Osaka University, Osaka, Japan</i></td></tr>
 <tr><td><b>18:20 - 18:50 </b><br />
 <strong>Talks selected from abstracts</strong></td></tr>
@@ -190,7 +190,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 </p>
 <p align="justify">When the form is adequately filled out, press the 'Submit' button. You will receive an email from the conference "EasyChair". This email is solely a notification that EasyChair for BioNetVisA2019 has received the abstract.
 </p>
-<b><a href=""><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
+<b><a href="https://easychair.org/conferences/?conf=bionetvisa2019"><font size="5" color="#e60000"><center>Submit your abstract here</center></font></a></b>
 
 ### Registration
 
