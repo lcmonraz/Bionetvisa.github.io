@@ -192,7 +192,7 @@ The link below will take you to the EasyChair submission page. Once logged, clic
 
 <p>The free-of-charge registration is obligatory for all participants (speakers, poster presenters, audience). <br /> 
 <b><font color="#e60000">The registration deadline is on September 1st 2019</font></b><br />
-<b><a href=""><font size="5" color="#e60000"><center>Register here</center></font></a></b>
+<b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeaN4cxxVxjswgFNVLq27oE80OxklfuRT_2hog3odtIqsmEqQ/viewform?usp=sf_link"><font size="5" color="#e60000"><center>Register here</center></font></a></b>
 </p>
 
 ### Organising committee
