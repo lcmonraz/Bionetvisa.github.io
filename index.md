@@ -46,7 +46,7 @@ Networks for drug repositioning<br />
 ### Important dates
 <table style="width 100%">
 <tr><td><b>August 1</b></td>
-  <td>Abstract submission deadline<b><i><font color="#e60000">Submit now!</font></i></b></td></tr>
+  <td>Abstract submission deadline<b><i><font color="#e60000"><a href="https://easychair.org/conferences/?conf=bionetvisa2019">Submit now!</a></font></i></b></td></tr>
 <tr><td><b>August 7</b></td>
   <td>Abstract acceptance notification</td></tr>
 <tr><td><b>August 20</b></td>
@@ -128,7 +128,7 @@ Networks for drug repositioning<br />
 <a href="/Abstracts/Bionetvisa2019/Abstract_BioNetVisA2019_Reinhard_SCHNEIDER.pdf"><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="https://wwwfr.uni.lu/lcsb/people/reinhard_schneider">Reinhard Schneider</a><br />
 <i>Luxembourg Centre for Systems Biomedicine, Luxembourg</i></td></tr>
-<tr><td><b>14:25 - 15:10</b><font color=color="#e60000"><i>Keynote</i></font></b><br />
+<tr><td><b>14:25 - 15:10</b><i><font color="#e60000">Keynote</font></i></b><br />
 <strong>Joint analysis of large single-cell dataset collections</strong><br /> 
 <a href=""><b><font color="Navy"><span style="text-decoration: underline;">Abstract</span></font></b></a><br />
 <a href="http://pklab.med.harvard.edu/index.html">Peter Kharchenko</a><br />
